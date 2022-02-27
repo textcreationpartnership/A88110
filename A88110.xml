@@ -1,0 +1,3414 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Officium eucharisticum A preparatory service, to a devout and worthy reception of the Lords supper. Designed for a person of quality; and now made publick for common use.</title>
+            <author>Lake, Edward, 1641-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88110</idno>
+            <idno type="STC">Wing L188A</idno>
+            <idno type="STC">ESTC R227279</idno>
+            <idno type="EEBO-CITATION">99896548</idno>
+            <idno type="PROQUEST">99896548</idno>
+            <idno type="VID">133820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2430:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Officium eucharisticum A preparatory service, to a devout and worthy reception of the Lords supper. Designed for a person of quality; and now made publick for common use.</title>
+                  <author>Lake, Edward, 1641-1704.</author>
+               </titleStmt>
+               <extent>[4], 91, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T. Milbourn, for Christopher Wilkinson at the Black-Boy over against St. Dunstans Church in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edward Lake.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133820:1" rendition="simple:additions"/>
+            <p>
+               <hi rend="blackletterType">Officium Euchariſticum.</hi> A
+PREPARATORY SERVICE, To a DEVOUT and WORTHY RECEPTION OF THE
+<hi rend="blackletterType">LORDS SUPPER.</hi> Deſigned for a perſon of
+Qua<g ref="char:EOLhyphen"/>lity; and now made Publick for Common Uſe.</p>
+            <q>
+               <bibl>St. Luke xxiv. 36.</bibl> 
+               <p>He was known to them in Breaking of Bread.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Milbou<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Chriſtopher Wilkinſon</hi> at the <hi>B<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+over againſt St. <hi>Dunſtans'</hi> Chur<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+ſtreet,</hi> 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:133820:2"/>
+            <pb facs="tcp:133820:2"/>
+            <opener>
+               <salute>
+                  <hi rend="blackletterType">Good Reader,</hi>
+               </salute>
+            </opener>
+            <p>THis little <hi>Manual</hi> of Directions and Prayers for the
+<hi>Holy Com<g ref="char:EOLhyphen"/>munion,</hi> Firſt deſigned for a <hi>Pri<g ref="char:EOLhyphen"/>vate</hi> uſe, now
+ſhews it ſelf in <hi>Publique,</hi> on preſumption it may help thee in
+thy <hi>Cloſet-retirements</hi> towards a Pious preparation thereto, and a
+wor<g ref="char:EOLhyphen"/>thy Reception thereof.</p>
+            <p>I omit to <hi>Preface</hi> it; becauſe I can<g ref="char:EOLhyphen"/>not call it
+<hi>Mine:</hi> 'Tis a <hi>Collection,</hi> and recommends it ſelf unto thee
+cloathed in the Language not of any <hi>Private Con<g ref="char:EOLhyphen"/>ception;</hi> (of ſuch
+the world is already full;) But of <hi>Primitive Liturgies;</hi> of that of our
+Holy Church, and ſome of the moſt <hi>Devout Fathers</hi> of it, Biſhop
+<hi>Andr<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Biſhop
+<hi>Coſins,</hi> and that <hi>Great and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Man</hi> Arch-Biſhop
+<hi>LAUD,</hi> who <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a
+<hi>Patron,</hi> and dyed a <hi>Martyr of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>The Authour, (who e're he
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:133820:3"/>curious, or
+Sollicitous to think, How it may go down with a <hi>ſort of People,</hi>
+whoſe <hi>unweildy zeal</hi> hath tranſported them under a pretence of
+Spuing out <hi>Popery,</hi> to diſrelliſh and traduce any thing that is
+<hi>Primitive:</hi> But, the Sober and Devout Chriſtian, who lives in the
+<hi>Communion</hi> of <hi>This Church,</hi> He is ſe<g ref="char:EOLhyphen"/>cure of. And that it may
+further thee in the Attainment of our <hi>Common Sal<g ref="char:EOLhyphen"/>vation,</hi> is his
+ſincere and hearty deſire; in return to which, he beggs thee nothing, but
+to <hi>Recommend him</hi> now and then in theſe thy <hi>Private
+Addreſſes</hi> to the Throne of Grace.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133820:3"/>
+            <head>A Preparatory Office For the H. COMMUNION.</head>
+            <p>THe neareſt and moſt ſolemn Intimacy and <hi>Communion</hi>
+we have with God in this World, is exhibited to us in the Bleſſed
+<hi>Euchariſt;</hi> that is to ſay, the <hi>Sacrament of the Lord's
+Supper,</hi> where<g ref="char:EOLhyphen"/>in (according to our Church-Catechiſm) the <hi>Body and
+Bloud of Chriſt, are verily, and in<g ref="char:EOLhyphen"/>deed taken, and received by the
+Faithful;</hi> and hence it is called by St. <hi>Paul,</hi> 1 <hi>Cor.</hi>
+10.16. The <hi>Communion</hi> of his <hi>Body,</hi> and the <hi>Com<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nion</hi> of his Bloud; ſo that by
+a du<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> worthy Participation hereof,
+we are <hi>re<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>corporated</hi> into Chriſt;
+we dwell in Ch<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſt in us; we are made
+One wi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Chriſt with us: In
+regard of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:133820:4"/>liable Priviledge, as well as the great danger which attends the
+contrary, now eſpecially we are to heed our ſelves in our Addreſſes to
+it, being careful to perform all <hi>Devotional Acts</hi> of <hi>Worſhip</hi>
+and <hi>Piety,</hi> which may conduce to a good acceptable Celebration of ſo
+Divine a Myſtery: St. <hi>Paul</hi> hath comprehended them all under this One
+Word and Duty of <hi>Ex<g ref="char:EOLhyphen"/>amination,</hi> 1 Cor. 11.28. which includes more than
+we can readily conceive: I ſhall not in<g ref="char:EOLhyphen"/>large upon thoſe Graces of
+<hi>Faith, Repentance,</hi> and <hi>Charity,</hi> about which it ſhould be
+chiefly converſant; but, do immediately proceed to thoſe <hi>Preparatory
+Acts of Devotion,</hi> which ſhould be exerciſed in order to a due
+Recepti<g ref="char:EOLhyphen"/>on of this Bleſſed Sacrament.</p>
+            <p>I begin then, as you ſhould in this, and all other Duties of
+Religion, <hi>In the Name of God;</hi> and Exhort, that having received
+<hi>Notice</hi> from <hi>God's Prieſt</hi> of a <hi>Communion</hi> to be
+Celebrated the <hi>next Sunday,</hi> you forthwith ſet your ſelf to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>is great Work, of fitting your
+ſelf for a right <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cipation
+thereof. Whatever you do, let <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er and anon be
+<hi>uppermoſt</hi> in your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ts that <hi>whole Week,</hi>
+reflecting on your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Eſtate,
+and ſpecially on <hi>that Time,</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath lent you from your
+<hi>laſt Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Graces you have Improved?
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> omitted? What Sins commit<g ref="char:EOLhyphen"/>ted?
+<pb n="3" facs="tcp:133820:4" rendition="simple:additions"/>And out of a hearty Reſentment of them, breath forth
+theſe, or the like pious Eja<g ref="char:EOLhyphen"/>culations:</p>
+            <q>I have ſinned; What ſhall I do unto Thee, O Thou
+<hi>Preſerver of Man!</hi> Lord, I am not worthy to come under thy Roof; But
+ſpeak the Word onely, and thy Servant ſhall be Healed!</q>
+            <p>Adding theſe <hi>two Collects</hi> to your Private Devotions,
+both at <hi>Morning</hi> and <hi>Evening,</hi> that <hi>whole Week.</hi>
+            </p>
+            <q> 
+               <p>ALmighty God, who of thy tender Mer<g ref="char:EOLhyphen"/>cy, didſt give thine only
+Son <hi>Jeſus Chriſt,</hi> to ſuffer Death upon the Croſs for <hi>our
+Re<g ref="char:EOLhyphen"/>demption;</hi> and didſt <hi>inſtitute,</hi> and in thy Holy Goſpel
+command us to continue a <hi>perpetual Memory</hi> of that his precious Death,
+until his Coming again: Hear me, moſt merciful Sa<g ref="char:EOLhyphen"/>viour, I moſt humbly
+beſeech Thee, and make my <hi>Groanings,</hi> my <hi>Deſires</hi> after
+this <hi>Holy Sa<g ref="char:EOLhyphen"/>crament,</hi> anſwerable to my needs of it: But oh Lord! How
+ſhall ſuch a Wretch as I da<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+to approach thy <hi>Holy Table?</hi> I am a
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> How ſhall I preſume to
+take the <hi>C<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bread?</hi> I have often
+<hi>trampled</hi> thoſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+things <hi>under foot,</hi> either careleſly ne<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> or unworthily receiving thoſe <hi>H<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ries!</hi> O Lord, my horrible
+Guil<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:133820:5"/>me tremble to
+come, and yet makes me not dare to ſtay away; for, Where ſhall this
+pol<g ref="char:EOLhyphen"/>luted Soul be waſhed, but in this Fountain o<g ref="char:EOLhyphen"/>pened for ſin, and for
+uncleanneſs? Hither then I come; and Thou haſt promiſed, that him that
+cometh to Thee, <hi>Thou wilt in no wiſe caſt out:</hi> Grant me therefore,
+Gracious Lord, ſo <hi>to eat the Fleſh</hi> of thy Dear Son <hi>Jeſus
+Chriſt,</hi> and to <hi>drink his Bloud;</hi> that my ſinful <hi>Body</hi>
+may be made clean by <hi>his Body,</hi> and my <hi>Soul</hi> waſhed through
+his moſt <hi>Precious Bloud.</hi> A<g ref="char:EOLhyphen"/>men.</p> 
+               <p>I Will not preſume to come to <hi>thy Table,</hi> O Merciful
+Lord, truſting in my own Right<g ref="char:EOLhyphen"/>eouſneſs, but in thy manifold and great
+Mer<g ref="char:EOLhyphen"/>cies declared unto Mankind in our Lord Jeſus Chriſt; for whoſe
+ſake, give me, I pray Thee, ſuch a <hi>Preparation of Soul,</hi> as may
+qualifie me for a worthy Approach thereunto; To this end, make me heartily
+ſenſible of my Sins and Unworthineſs; raiſe up my dull and earthy Mind
+from groveling here below, and inſpire
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with a Holy Zeal to ſeek
+thoſe things that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove: Let that infinite Love of
+Chriſt in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for ſo wretched
+a Sinner, inflame my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd kindle in me that Sacred fire
+of Love <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ain, and to all thoſe whom He
+hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Command and Example to
+Love, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> well as
+<hi>Friends,</hi> and that for his <pb n="5" facs="tcp:133820:5"/>ſake: Cloath me, O Lord
+in the <hi>Wedding Gar<g ref="char:EOLhyphen"/>ment;</hi> and make me, though of my ſelf, a moſt
+unworthy, yet by thy Mercy, an acceptable Gueſt at <hi>Thy Table;</hi> that I
+may not eat or drink my own Damnation, but Salvation through Jeſus Chriſt
+our Lord. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Having thus recommended your ſelf unto God in your <hi>private
+Retirements:</hi> I do earneſt<g ref="char:EOLhyphen"/>ly exhort you to <hi>frequent the publique
+Prayers of the Church:</hi> (nothing but a charitable, or ſome very urgent
+occaſion can <hi>now,</hi> or indeed ſhould at <hi>any time</hi> excuſe
+you;) and to attend them with all <hi>poſſible Devotion:</hi> Heed your
+ſelf, <hi>this Week eſpecially,</hi> your Thoughts, Words and Actions, that
+they be not wicked nor vain; or if at any time they ſhould, that you
+forth<g ref="char:EOLhyphen"/>with recall and check your ſelf thus,</p>
+            <q> 
+               <l>
+                  <hi>Lord have Mercy upon me!</hi>
+               </l> 
+               <l>
+                  <hi>Chriſt have Mercy upon me!</hi>
+               </l> 
+               <l>
+                  <hi>Lord have Mercy upon me!</hi>
+               </l> 
+               <p>I Said, I will take heed to my ways, that I offend not in my
+Tongue! O God, who knoweſt us to be ſet in the midſt of ſo ma<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and great Dangers, that by reaſon
+of the f<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ty of our Nature, we
+cannot always ſtand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> right;
+grant to me ſuch ſtrength and Prote<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> on, as may ſupport me in all Danger
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> carry me through all
+Temptations <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Jeſus Chriſt
+our Lord. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <pb n="6" facs="tcp:133820:6" rendition="simple:additions"/>Set apart the <hi>Friday</hi> of every
+ſuch Week as a Day of Holy <hi>Faſting</hi> and Abſtinence, <hi>riſing
+Earlier</hi> than uſually, if your Health will permit you, at <hi>Five of the
+Clock.</hi>
+            </p>
+            <p>When you <hi>Awake,</hi> Pray,</p>
+            <q> 
+               <p>
+                  <hi>LIghten mine eyes, O Lord, that I ſleep not in
+Death.</hi>
+               </p>
+            </q>
+            <p>Then meditate upon, and ac<g ref="char:EOLhyphen"/>knowledg Gods goodneſs for
+<hi>Preſerving you the laſt Night,</hi> who might, and deſervedly too,
+have Suffred <hi>Death to Seize</hi> on you whilſt <hi>Sleeping,</hi> and
+hurryed you hence to render an account of what you have done in the fleſh:
+the reſult of which, will be to <hi>Think.</hi> How (on the
+<hi>Suppoſal</hi> of this <hi>Dreadful Surprize</hi>) you were
+<hi>Prepared;</hi> and to Conclude,—</p>
+            <q>Happy is that Servant, whom his Lord, when he cometh ſhall find
+<hi>Doing his will!</hi>
+            </q>
+            <p>And then humbly commending your ſelf to God, Say,</p>
+            <q> 
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>Nto thy hands, O
+Lord, I commend this Day my ſoul and my Body, beſeeching
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee to be ever with me, to direct,
+ſanctifie <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>overn me in the ways
+of thy Laws, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> works of thy
+commandments; that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy moſt
+mighty protection both<pb n="7" facs="tcp:133820:6"/> "here and ever, I may be preſerved
+both in Body and Soul, to ſerve Thee the only True God, through Jeſus
+Chriſt our Lord <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>After which; <hi>Preſently Ariſe:</hi> and at your
+<hi>Up-riſing;</hi> Say,</p>
+            <q> 
+               <p>JN the name <hi>of God;</hi> the <hi>Father,</hi> the
+<hi>Son,</hi> and the <hi>Holy Ghoſt; Amen.</hi> Bleſſed be God, the Holy
+and <hi>undivided Trinity,</hi> now and for ever, <hi>Amen.</hi>
+               </p> 
+               <p>I <hi>Ariſe</hi> from my Bed to Glorify Him; He, of his infinite
+mercy, Bleſs and Keep me this Day, and for evermore; <hi>Amen.</hi>
+               </p> 
+               <p>I Laid me down, and ſlept, and roſe up a<g ref="char:EOLhyphen"/>gain, for the Lord
+hath Suſtained me.</p>
+            </q>
+            <p>At your <hi>Apparrelling;</hi> Say,</p>
+            <q> 
+               <p>
+                  <hi>CLoath</hi> me, O Lord, with the <hi>Ornaments</hi> of thy
+heavenly Grace; and <hi>Cover</hi> me with the <hi>Robes of Righteouſneſs.
+Put ye on</hi> the Lord Jeſus Chriſt; and make no proviſion for the
+fleſh, to fullfil the luſts thereof.</p>
+            </q>
+            <p>At the <hi>Waſhing</hi> of your Hands, ſay,</p>
+            <q> 
+               <p>
+                  <hi>WAſh</hi> me clean, O Lord, from my
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>edneſs; and <hi>Cleanſe</hi>
+me from my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Suppoſing you thus <hi>Apparralled</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <hi>Six of the Clock;</hi>
+Tis tim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:133820:7" rendition="simple:additions"/>retire
+your ſelf, to your ordinary <hi>Morning Prayers,</hi> which I would adviſe
+you, e're you Kneel down, to begin with <hi>Proſtration thus,</hi>
+            </p>
+            <q> 
+               <p>At the <hi>Name of Jeſus,</hi> God bleſſed for ever, let
+every <hi>Knee Bowe,</hi> both of things in Heaven, things in Earth, and things
+under the Earth; <hi>Glory be to Thee O Lord moſt High.</hi>
+               </p>
+            </q>
+            <p>Then upon <hi>Your Knees,</hi> Say:</p>
+            <q> 
+               <p>GOd be in my <hi>Head</hi> and in my <hi>
+                     <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing,</hi>
+that I may know in this my Day the things which do concern my everlaſting
+peace.</p> 
+               <p>God be in my <hi>Eyes</hi> and in my <hi>Seeing,</hi> that they
+may alwayes be looking up to thy Mer<g ref="char:EOLhyphen"/>cy-Seat, and that they be not as ſo many
+<hi>Caſements</hi> to let in <hi>Vanity.</hi>
+               </p> 
+               <p>God be in my <hi>Mouth</hi> and in my <hi>Speaking,</hi> to guard
+and fence it from <hi>Idle Words,</hi> and that it may at no time be a
+<hi>Door</hi> to let out <hi>Folly.</hi>
+               </p> 
+               <p>God be in my <hi>Ears</hi> and in my <hi>Hearing,</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t they may be always open to
+ſound and <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>lſom Counſels,
+and deaf to corrupt and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+Communications.</p> 
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be in my
+<hi>Heart</hi> and in my <hi>Thinking,</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erve it from being a ſink of
+Unclean<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that it may never be
+ſuffered either <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, or deceive
+others.</p> 
+               <p>
+                  <pb n="9" facs="tcp:133820:7"/>God be at my <hi>End</hi> and my Departing, that
+ſo my <hi>Death</hi> may be <hi>precious</hi> in the ſight of the Lord,
+with whom I pray that I may live for Evermore; <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>And ſo,</p>
+            <q> "Prevent me O Lord in all my Doings with thy moſt Gracious
+Favour, and further me with thy continual Help, that in all my works begun,
+continued, and ended in Thee I way glorifie thy Holy Name, and final<g ref="char:EOLhyphen"/>ly by thy
+mercy may obtain everlaſting Life, through Jeſus Chriſt our Lord,
+<hi>Amen.</hi>
+            </q>
+            <p>Adding, <hi>Our Father, &amp;c.</hi>
+            </p>
+            <q> 
+               <p>My Voice ſhalt Thou hear betimes, O Lord; early in the Morning
+will I direct my Prayer unto Thee; and I will look up.</p> 
+               <l>O Lord, open thou my <hi>Lips;</hi>
+               </l> 
+               <l>And my <hi>Mouth</hi> ſhall ſhew forth thy Praiſe.</l> 
+               <l>O God make ſpeed to ſave me;</l> 
+               <l>O Lord make haſt to help me:</l> 
+               <l>Glory to the Father, and to the Son, <hi>&amp;c.</hi>
+               </l> 
+               <p> As it was in the Beginning, is now, <hi>&amp;c.</hi> 
+               </p> 
+               <p>
+                  <bibl> 
+                     <hi>Pſal.</hi> xcv.</bibl> O Come let us ſing unto the
+Lord; <hi>&amp;c.</hi>
+               </p> 
+               <p>Glory be to the Father, <hi>&amp;c.</hi>
+               </p> 
+            </q>
+            <p>After which, read One or more of <hi>Davids</hi>'s Pſalms in
+order; Beginning with the <hi>Firſt,</hi> and ſo onward, concluding
+<hi>each Pſal.</hi> with</p>
+            <q> 
+               <p>Glory be to the <hi>Father,</hi> &amp;c.</p>
+            </q>
+            <p>
+               <pb n="10" facs="tcp:133820:8"/>Then a Chapter out of the <hi>Proverbs</hi> of
+<hi>So<g ref="char:EOLhyphen"/>lomon,</hi> or the <hi>New Teſtament:</hi> and after that,</p>
+            <q> 
+               <p>We Praiſe Thee O God, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>Or,</p>
+            <q> 
+               <p>
+                  <note n="*">Eſpeci<g ref="char:EOLhyphen"/>ally in the Holy Time of
+Lent.</note>O All ye Works of the Lord, Bleſs, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>Or,</p>
+            <q> 
+               <p>Bleſſed be the Lord God of <hi>Iſrael, &amp;c.</hi>
+               </p>
+            </q>
+            <p>Goncluding the <hi>Two laſt</hi> of theſe Hymns with Glory
+<hi>be to the Father,</hi> &amp;c.</p>
+            <p>Then the Creed, <hi>I Believe in God,</hi> &amp;c. After which
+Kneel and Pray,</p>
+            <q> 
+               <l>Lord have mercy upon me,</l> 
+               <l>Chriſt have mercy upon me,</l> 
+               <l>Lord have mercy upon me,</l> 
+               <p>
+                  <hi>Our Father,</hi> &amp;c.</p> 
+               <p>Bleſſing, and Honour and Glory, and Pow<g ref="char:EOLhyphen"/>er be unto him that
+Sitteth upon the Throne, and unto the Lamb, for ever and ever,
+<hi>Amen.</hi>
+               </p> 
+               <p>GLory be to God on high; on earth Peace; good Will amongſt Men;
+I Praiſe Thee; I Bleſs Thee; I Worſhip Thee; I Glorify Thee; I give
+thanks to Thee for thy great Glory <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Goodneſs, O Lord God, Heavenly
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g, God the Father Almighty: For
+thy Son <hi>Jeſus Chriſt</hi> manifeſted in the Fleſh to de<g ref="char:EOLhyphen"/>ſtroy the
+works of the Devil; and who is the fountain of all thoſe mercys both
+Spiritu<g ref="char:EOLhyphen"/>al and Temporal ſo freely and plentifully be<g ref="char:EOLhyphen"/>ſtowed on me thy
+moſt unworthy Creature;<pb n="11" facs="tcp:133820:8"/>particularly that thou haſt
+protected me this laſt Night from all perills ghoſtly and bodily, and
+brought me to ſee the light of another Day, whereas thou mighteſt juſtly
+have ſuf<g ref="char:EOLhyphen"/>fered me to ſleep in death by reaſon of thoſe manifold and
+hainous ſins wherewith I have from time to time offended thy Divine
+Ma<g ref="char:EOLhyphen"/>jeſty. I have ſinned! and what ſhall I ſay unto Thee, O thou
+<hi>Preſerver of Man?</hi> I have left un<g ref="char:EOLhyphen"/>done thoſe things which I ought
+to have done; and I have done thoſe things which I ought not to have done;
+and there is no health in me: But thou O Lord, Have mercy upon me a moſt
+miſerable offender! Oh Thou, who de<g ref="char:EOLhyphen"/>ſireſt not the Death of a ſinner,
+but rather that he ſhould turn from his wickedneſs and Live, <hi>Have mercy
+upon me.</hi> Spare and Reſtore me, who do here in all humility confeſs my
+faults, and do deſire to be Penitent for them. Have regard to thy
+<hi>Bleſſed Son</hi> who is our <hi>Advocate</hi> with Thee, O Father, and
+the <hi>Propitiation</hi> for all our ſins; for whoſe ſake mercifully
+Grant unto me true Repentance, and the aſſiſtanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of thy <hi>Holy Spirit,</hi> which may teach and
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>able me to pleaſe Thee
+hereafter in all g<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> things, to
+deny ungodlineſs and wordly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+and to live Godly and ſoberly in this pr<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> World, that ſo at laſt I may come to
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ternal joy, through Jeſua
+Chriſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Amen.</hi>
+               </p> 
+               <p>
+                  <pb n="12" facs="tcp:133820:9"/>ALmighty God our heavenly Father, who of thy
+Great mercy haſt promiſed <hi>For<g ref="char:EOLhyphen"/>giveneſs</hi> of ſins to all them
+that with hearty Repentance and true Faith turn unto Thee; Have mercy upon me,
+Pardon and Deliver me from all my ſins; Confirm and Strengthen me in all
+Goodneſs, and bring me unto ever<g ref="char:EOLhyphen"/>laſting Life, through Jeſus Chriſt our
+Lord. <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, our heavenly Father, Almighty and everlaſting God, who
+haſt ſafely brought me to the beginning of this Day; Preſerve me in the
+ſame, and all other Dayes of my Life from all ſin and Danger; and by thy
+Graci<g ref="char:EOLhyphen"/>ous Governance, diſpoſe all my Thoughts, Words and Actions this Day
+to thy Glory, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>MOſt Gracious God, I humbly beſeech thee, as for this Kingdom
+in General, ſo eſpecially for Him, who is the Supreme Governour thereof: O
+Lord, Grant the King <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> long
+Life, that his <hi>Years</hi> may endure, as <hi>ma<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Ages;</hi> furniſh him with ſafe and wiſe
+Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and give him an heart of
+Courage and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ancy to purſue them; Oh!
+Prepare thy <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing Mercy and
+Faithfulneſs for him, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+preſerve him; Let thy Name <hi>O God</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> defend him; ſend him
+<hi>help</hi> from thy <pb n="13" facs="tcp:133820:9"/>
+                  <hi>Sanctuary,</hi> and
+<hi>ſtrengthen</hi> him out of <hi>Sion:</hi> And let us his Servants under
+Thee, ſee with joy that Thou helpeſt thine <hi>Anointed,</hi> and that Thou
+wilt hear him from thy holy Heaven, even with the wholſom ſtrength of thy
+Right Hand; ſo will we alwayes ſing Praiſes unto thy Name through Jeſus
+Chriſt our Lord, <hi>Amen.</hi>
+               </p> 
+               <p>BLeſs, O Lord, the <hi>Queens Majeſty,</hi> the <hi>Duke of
+York;</hi> and all the <hi>Royal Family;</hi> Proſper them with all
+Happineſs, and make them all Inſtrumental to the furtherance of thy Glory
+in this World, and bring them to thine Everlaſting Kingdome in the World to
+Come, through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p> 
+               <p>GIve Grace O Heavenly Father to all <hi>Biſhops</hi> and
+<hi>Curates;</hi> eſpecially to <hi>Him</hi> whom by thy good Providence thou
+haſt ap<g ref="char:EOLhyphen"/>pointed my <hi>Spiritual Paſtor</hi> and <hi>Guide;</hi> Grant that
+I may reverence his Perſon, and hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> regard to his good and wholeſome Counſell<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſo that by him I may be conducted, and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ther with him enter into thine
+Eterna<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> through Jeſus Chriſt,
+<hi>Amen.</hi>
+               </p> 
+               <p>O God the Creator and preſerve
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mankind, I beſeech thee for
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:133820:10"/>conditions
+of Men, and eſpecially for thy Holy <hi>Catholique Church,</hi> that one
+<hi>Faith</hi> may be <hi>
+                     <g ref="char:V">Ʋ</g>niformly</hi> profeſſed as thy <hi>Church</hi>
+is and can be but <hi>one;</hi> purge it from all <hi>Atheiſm, Hereſy,</hi>
+and <hi>Schiſm;</hi> and grant that all they who do profeſs thy holy Name
+may agree in the truth of thy holy Word, and hold the Faith in unity of Spirit,
+in the bond of Peace, and in Righteouſneſs of life, through him who is the
+only <hi>head</hi> over all things to his Church, <hi>Jeſus Chriſt</hi> our
+Lord, <hi>Amen.</hi>
+               </p> 
+               <p>O God of Mercy's and Father of Com<g ref="char:EOLhyphen"/>forts, have Mercy, and comfort
+all thoſe who are any wayes Afflicted or Diſtreſſed in Mind, Body or
+Eſtate; Relieve them accor<g ref="char:EOLhyphen"/>ding to their ſeveral neceſſities, give them
+Patience under their ſufferings, and an happy iſſue out of all their
+Afflictions, for Jeſus Chriſt his Sake, <hi>Amen.</hi>
+               </p> 
+               <p>GRacious Lord, bleſs all thoſe who are near or dear unto me,
+and make them near and dear to thine own ſelf: All my <hi>Kindred,</hi> 
+                  <note n="*" place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>re inſert <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>eſt
+Re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> All other my
+<hi>Friends, Acquaintants</hi> &amp; <hi>Benefactors</hi> par<g ref="char:EOLhyphen"/>ticularly, 
+<note n="*" place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>arti<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>hom</note> Forgive me and them
+all our ſins, and continue us thy ſervants in life and death,
+<hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <pb n="15" facs="tcp:133820:10"/>To theſe, or the like, your <hi>Morning
+Prayers,</hi> ſubjoyn on every ſuch <hi>faſting day,</hi> the <hi>two
+Collects</hi> for <hi>preparation for the Communion</hi> above written, and the
+cxliij. <hi>Pſal.</hi> ſtill kneeling:</p>
+            <q>
+               <p>
+                  <hi>Hear my Prayers O Lord, and conſider my de<g ref="char:EOLhyphen"/>ſire,</hi>
+&amp;c.</p> 
+               <p>
+                  <hi>Glory be to the Father,</hi> &amp;c.</p>
+            </q>
+            <p>Conclude all with,</p>
+            <q> 
+               <p>The Lord fulfil the deſires and Petitions of thy Servant, as may
+be moſt expedient for me: The Lord bleſs me, and keep me: The Lord lift up
+the light of his Countenance upon me, and give me Peace both now and ever-more.
+<hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Ariſing from Prayer, you muſt preſently ſet your ſelf to
+<hi>recollect your Life paſt,</hi> eſpecially ſince you <hi>laſt
+received</hi> by that <hi>Catalogue of ſins</hi> ſet down in the <hi>whole
+duty of man,</hi> or, by that (which is more <hi>conciſe</hi>) at the latter
+end of that moſt excellent <hi>Manuel</hi> of Biſhop <hi>Andrews,</hi> pag.
+82. of his <hi>Directions for the Sick;</hi> reading it conſideringly over;
+and at <hi>every particular,</hi> ask your Soul, <hi>whether you are guilty of
+that ſin<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> and commit to
+<hi>writing</hi> thoſe Sins you diſco<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> your ſelf guilty of, with their reſpective ag<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>vations, <hi>viz.</hi> If they
+were committed <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+knowledg,</hi> or on <hi>mature deliheration,</hi> or
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>the reſiſtances of
+Conſcience,</hi> &amp;c.</p>
+            <p>I ſuppoſe this duty of <hi>ſelf examina<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 
+               <pb n="16" facs="tcp:133820:11"/>cated by the <hi>Apoſtle,</hi> 1 Cor. xj. 28. and moſt
+neceſſary to this great work, diſpatch'd by <hi>nine a Clock,</hi> when
+taking the <hi>paper</hi> in your hand, humbly <hi>proſtrating</hi> your
+ſelf, ſay,</p>
+            <q> 
+               <p>The good Lord pardon every one that <hi>prepareth</hi> his heart
+to ſeek God, the Lord God of his Fathers, though he be <hi>not
+cleanſed</hi> according to the <hi>Puriſication of the
+Sanctuary.</hi>
+               </p>
+            </q>
+            <p>Then <hi>kneel</hi> and pray, <hi>Pſalm</hi> cxxxth.</p>
+            <q> 
+               <p>Out <hi>of the deep have I called unto thee,</hi> O Lord,
+<hi>&amp;c.</hi>
+               </p> 
+               <p>Glory <hi>be to the Father,</hi> &amp;c.</p> 
+               <p>O God to whom Vengeance belongeth, O God to whom Vengeance
+belongeth, ſhew thy ſelf, but let it be in pity and compaſſion to thy
+wretched and unworthy Servant, who in all humility confeſs my ſelf a Wicked
+and Sinful Creature. I acknowledg thoſe ſins, which if I would, I cannot
+hide from thee, my ſins of <hi>Pride</hi> and <hi>Vain-Glory,</hi> of
+<hi>Hatred</hi> and <hi>Envy,</hi> of <hi>Gluttony</hi> and
+<hi>Wantonneſs;</hi> I accuſe my ſelf of my wicked <hi>deſires</hi> and
+<hi>thoughts</hi> which I have <hi>conceived</hi>
+                  <note n="*" place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> theſe marks
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> recourſe to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s noted in
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er.</note> of my <hi>wanton</hi>
+and <hi>evil words</hi> which I have ſpoken<note n="*" place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> theſe marks
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> recourſe to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s noted in
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er.</note> of my <hi>naughty</hi>
+and <hi>ungodly deeds</hi> which I have <hi>committed</hi>
+                  <note n="*" place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> theſe marks
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> recourſe to
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>s noted in
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er.</note>; I acknowledg and
+bewail theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old ſins and wickedneſſes,
+which I from<pb n="17" facs="tcp:133820:11"/>time to time moſt grievouſly have committed
+by thought, word, and deed againſt thy divine Majeſty, provoking moſt
+juſtly thy wrath and indignation againſt me. I do earneſtly repent and am
+heartily ſorry for theſe my miſdoings; the remembrance of them is
+grievous <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o me, the burden of them
+is intollerable. Have mer<g ref="char:EOLhyphen"/>cy upon me, have mercy upon me, moſt merci<g ref="char:EOLhyphen"/>ful
+Father, for thy Son Jeſus Chriſt's ſake, for<g ref="char:EOLhyphen"/>give me all that is paſt;
+and grant, that I may ever hereafter ſerve and pleaſe thee in newneſs of
+Life, to the honour and glory of thy Name, through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </p> 
+               <p>Forgive me my ſins, O Lord; forgive me the ſins of my
+<hi>Age,</hi> and the ſins of my <hi>Youth;</hi> the ſins of my
+<hi>Soul,</hi> and the ſins of my <hi>Body;</hi> my <hi>Secret</hi> and my
+<hi>Whiſpering</hi> ſins; my <hi>Pre<g ref="char:EOLhyphen"/>ſumptuous</hi> and my <hi>Crying
+ſins;</hi> the ſins that I have done to <hi>pleaſe my ſelf,</hi> and
+the ſins that I have done to pleaſe others.</p> 
+               <p>Forgive me my <hi>Wanton and idle ſins;</hi> for<g ref="char:EOLhyphen"/>give me my
+<hi>ſerious and deliberate ſins;</hi> forgive me thoſe ſins which I
+<hi>know,</hi> and thoſe ſins which I <hi>know not;</hi> the ſins which I
+have laboured <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> long to <hi>hide
+from others,</hi> that now I have
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>hid them from my own
+memory:</hi> Forgive <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, O
+Lord! Forgive them all; of th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mercy let me be
+<hi>Abſolved</hi> from all my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and of thy bountiful goodneſs, let
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vered<pb n="18" facs="tcp:133820:12"/>from
+the bands of thoſe ſins, which by my frailty I have committed; Grant this,
+O Hea<g ref="char:EOLhyphen"/>venly Father, for Jeſus Chriſt his ſake, our Bleſſed Lord and
+Saviour. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Adding this ſhort Litany, and the follow<g ref="char:EOLhyphen"/>ing Prayers.</p>
+            <q> 
+               <p>O God, the Father of Heaven, have mercy upon me a moſt
+miſerable ſinner!</p> 
+               <p>O God the Son, Redeemer of the World, have mercy upon me a moſt
+miſerable ſinner!</p> 
+               <p>O God the Holy Ghoſt, proceeding from the Father, and the Son,
+have mercy upon me a moſt miſerable ſinner!</p> 
+               <p>O Holy, Bleſſed and Glorious Trinity, Three Perſons, and one
+God; Have mercy upon me, a moſt miſerable ſinner!</p> 
+               <p>Remember not Lord mine offences, nor the offences of my
+fore-Fathers, neither take thou Vengeance of my ſins: Spare me, good Lord,
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>re thy Servant whom Thou haſt
+Redeemed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy moſt precious
+Blood, and be not an<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with me for
+ever. <hi>Spare me, Good Lord.</hi>
+               </p> 
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all evil and
+miſchief, from ſin, from the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aſſaults of the Devil,
+from thy wrath, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verlaſting Damnation, <hi>Good
+Lord Deliver me.</hi>
+               </p> 
+               <p>
+                  <pb n="19" facs="tcp:133820:12"/>From all blindneſs of Heart, from Pride,
+Vain-Glory and Hypocriſie; from Envy, Ha<g ref="char:EOLhyphen"/>tred and Malice, and from all
+Uncharitable<g ref="char:EOLhyphen"/>neſs, <hi>Good Lord Deliver me!</hi>
+               </p> 
+               <p>From Fornication and all other deadly ſin; and from all the
+deceits of the World, the Fleſh, and the Devil, <hi>Good Lord Deliver
+me!</hi>
+               </p> 
+               <p>From, <hi>&amp;c.</hi> [Here inſert thoſe ſins of which you
+have found your ſelf guilty, and wrote in the paper,] <hi>Good Lord Deliver
+me!</hi>
+               </p> 
+               <p>From hardneſs of Heart; from Contempt of thy Word and
+Commandment; from any evil thought which may aſſault and hurt my Soul,
+<hi>Good Lord Deliver me!</hi>
+               </p> 
+               <p>From all Adverſities which may happen to the Body; from
+noyſome and infectious Diſeaſes, and from ſudden death, <hi>Good Lord
+Deliver me!</hi>
+               </p> 
+               <p>By thine Agony and Bloody Sweat; by thy Croſs and Paſſion;
+by thy precious Death a<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Burial,
+and by thy Victorious Deſcention in<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Hell, <hi>Good Lord deliver me!</hi>
+               </p> 
+               <p>By thy Glorious Reſurrection and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on; and by the wonderful
+coming of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ghoſt, <hi>Good
+Lord Deliver <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </p> 
+               <p>
+                  <pb n="20" facs="tcp:133820:13"/>In all time of my Tribulation, in all time of
+my Wealth, in the hour of Death, and in the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of Judgment, <hi>Good Lord
+Deliver me.</hi>
+               </p> 
+               <p>I who am a moſt miſerable ſinner, do beſeech thee t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hear me, O Lord God; to keep and
+ſtrengthen me in the true worſhiping of Thee; and to give me Grace to
+ſerve thee in Righte<g ref="char:EOLhyphen"/>ouſneſs and Holineſs all the days of my Life,
+<hi>I beſeech Thee to hear me, Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to be my Defender and Keeper, giving me
+the Victory over the World, the Fleſh, and the Devil, <hi>I beſeech thee to
+hear me, Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to endue me with true knowledg of thy
+Word; with Grace, Wiſdom, and Underſtanding, <hi>I beſeech Thee to hear
+me, Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to give me increaſe of Grace, to hear
+meekly thy Word, and to bring forth the fruits of the Spirit, <hi>I beſeech
+thee to hear me, Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to give me an heart
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ve and Dread Thee, and diligently
+to live <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commandments, <hi>I
+beſeech thee to hear me, Good Lord.</hi>
+               </p> 
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may pleaſe Thee
+to ſtrengthen me <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd; to
+comfort, and help me when I<pb n="21" facs="tcp:133820:13"/>am weak-hearted; to raiſe me
+up when I fall; and finally to beat down Satan under my feet, <hi>I beſeech
+Thee to hear me, Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to ſuccour, help, and comfort me, when
+I am in danger, neceſſity and Tribulation, <hi>I beſeech thee to hear me,
+Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to give me, as at all times, ſo now
+eſpecially, due preparation of mind, that I may worthily participate this
+holy Sacrament, <hi>I beſeech Thee to hear me, Good Lord.</hi>
+               </p> 
+               <p>To this end may it pleaſe Thee to forgive mine Enemies,
+Perſecutors, and Slanderers, and to turn their hearts, <hi>I beſeech Thee
+to hear me, Good Lord.</hi>
+               </p> 
+               <p>That it may pleaſe Thee to give me true Re<g ref="char:EOLhyphen"/>pentance; to forgive
+me all my ſins, negligen<g ref="char:EOLhyphen"/>ces, and ignorances; to endue me with a lively and a
+ſtedfaſt Faith, and a ſincere Reſolution to amend my Life according to
+thy holy Word, <hi>I beſeech Thee to hear me, Good Lord.</hi>
+               </p> 
+               <p>Son of God, I beſeech Thee to hear me.</p> 
+               <p>O Lamb of God that takeſt away the ſins of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> World, <hi>Grant me thy
+Peace.</hi>
+               </p> 
+               <p>O Lamb of God, that takeſt away the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the World, <hi>Have mercy upon
+me.</hi>
+               </p> 
+               <p>O Chriſt Hear me.</p> 
+               <l>
+                  <pb n="22" facs="tcp:133820:14"/>Lord have mercy upon me!</l> 
+               <l>Chriſt have mercy upon me!</l> 
+               <l>Lord have mercy upon me!</l> 
+               <p>
+                  <hi>Our Father,</hi> &amp;c.</p> 
+               <p>
+                  <hi>Deliver us from Evil,</hi> Amen.</p> 
+               <l>O Lord, deal not with me according my to ſins.</l> 
+               <l>
+                  <hi>Neither reward me after my Iniquities.</hi>
+               </l> 
+               <p>Have mercy upon me, O Lord, after thy great Goodneſs; according
+to the multitude of thy mercys do away my offences, <hi>&amp;c. Pſal.</hi>
+lj. [Repeat the whole <hi>Pſalm</hi> kneeling; ending with <hi>Glory be
+to,</hi> &amp;c.]</p> 
+               <p>O Lord, I beſeech Thee mercifully to hear me; and ſpare me,
+and all thoſe who do confeſs their ſins unto Thee, that they whoſe
+Conſciences by ſin are accuſed, by thy merciful Pardon may be Abſolved,
+through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>O moſt mighty God, and merciful Father, who haſt
+compaſſion upon all men, and hateſt nothing that thou haſt made, who
+wouldeſt not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Death of a
+ſinner, but rather that he ſhould
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from his ſin, and be
+ſaved: Mercifully <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me my
+Treſpaſſes, receive and comfort
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> am grieved and wearied with
+the bur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y ſins: Thy property is always
+to have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Thee only it
+appertaineth to forgive <pb n="23" facs="tcp:133820:14"/>ſins: Spare me therefore, Good
+Lord; ſpare me, ſpare thy Servant whom thou haſt Re<g ref="char:EOLhyphen"/>deemed; enter not
+into Judgment with thy Servant, who am vile earth, and a miſerable ſinner;
+But, ſo turn thine anger from me, who meekly acknowledg my vileneſs, and
+truly re<g ref="char:EOLhyphen"/>pent me of my faults, and ſo make haſt to help me in this world,
+that I may live with Thee in the world to come, through Jeſus Chriſt our
+Lord, <hi>Amen.</hi>
+               </p> 
+               <p>TUrn thou me, O good Lord, and ſo ſhall I be turned; be
+favourable O Lord, be fa<g ref="char:EOLhyphen"/>vourable to thy Servant who turns to Thee in
+<hi>Weeping, Faſting,</hi> and <hi>Praying:</hi> For, thouart a merciful God,
+full of Compaſſion, long-ſuffer<g ref="char:EOLhyphen"/>ing, and of great pitty; Thou
+ſpareſt, when we deſerve puniſhment, and in thy Wrath thinkeſt upon
+mercy: Spare thy Servant, good Lord; ſpare me, and let me not be brought to
+Confu<g ref="char:EOLhyphen"/>ſion! Hear me, O Lord, for thy mercy is great; and after the multitude
+of thy mercies, look up<g ref="char:EOLhyphen"/>on me through the Merits and Mediation of thy
+bleſſed Son Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>THe Lord bleſs me, and keep me; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lift
+up the light of his Countenan<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me, and give me peace, now and
+for ev<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <pb n="24" facs="tcp:133820:15"/>The time following to <hi>Eleaven of the
+Clock;</hi> you may beſtow in <hi>dreſſing,</hi> and fitting your ſelf
+for the <hi>publick Prayers of the Church,</hi> which then you muſt by no
+means fail to be <hi>preſent at.</hi> In the mean time, let no ſinful
+thoughts poſſeſs your Soul, no vain or idle Communication pro<g ref="char:EOLhyphen"/>ceed out of
+your mouth, but ſuch as may tend to edifying. Examine, exhort, incourage your
+Servants, or thoſe about you, whom you have commanded, or who purpoſe to
+Receive this B. Sacrament with you; and be careful to a<g ref="char:EOLhyphen"/>void the Converſation
+of thoſe who may pro<g ref="char:EOLhyphen"/>bably tempt you to ſin and vanity.</p>
+            <p>Returning from <hi>Church,</hi> or <hi>Chappel</hi> about
+<hi>Twelve of the Clock,</hi> Humble your ſelf again before God, and
+Pray,</p>
+            <q> 
+               <p>
+                  <hi>Our Father,</hi> &amp;c.</p> 
+               <p>Deliver us from evil. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Then the xxxij. Pſalm. <hi>Still upon your knees.</hi>
+            </p>
+            <q> 
+               <p>Bleſſed is he whoſe unrighteouſneſs is for<g ref="char:EOLhyphen"/>given, and
+whoſe ſin is covered, <hi>&amp;c.</hi>
+               </p> 
+               <p>
+                  <hi>Glory be to the Father,</hi> &amp;c.</p> 
+               <p>Almighty and everlaſting God, who hateſt nothing that thou
+haſt made, and doſt forgive th<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s of all them that are penitent; Create,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e in me a new and contrite heart,
+that I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lamenting my ſins,
+and acknowledging <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>chedneſs, may obtain of thee,
+the <pb n="25" facs="tcp:133820:15"/>God of all mercy, perfect remiſſion and
+for<g ref="char:EOLhyphen"/>giveneſs, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>Almighty and moſt merciful Father, who for my many and grievous
+Sins committed a<g ref="char:EOLhyphen"/>gainſt thee, ſince the <hi>laſt ſolemn time of my
+Hu<g ref="char:EOLhyphen"/>miliation and Repentance,</hi> mighteſt moſt juſtly have cut me off in
+the midſt of my days; But, in the multitude of thy mercies haſt hitherto
+ſpared me: Accept, I moſt heartily beſeech thee, mine unfeigned ſorrow
+for all my former tranſgreſſions; and grant that I may never ſo
+preſume of thy mercy, as to deſpiſe the riches of thy goodneſs, but
+that thy forbearance and long ſuffering may lead me to Repentance and
+amendment of my ſinful life, to thy honour and glory, and my final
+Acquittance and Abſoluti<g ref="char:EOLhyphen"/>on at the laſt day, through Jeſus Chriſt our
+Lord. <hi>Amen.</hi>
+               </p> 
+               <l>
+                  <hi>O Lord, make clean my heart within me.</hi>
+               </l> 
+               <l>
+                  <hi>And take not thy Holy Spirit from me.</hi>
+               </l> 
+               <p>In the Name of God; the Father, the Son, and the Holy Ghoſt.
+<hi>Amen.</hi>
+               </p> 
+               <p>I who am a wretched Sinner, here perſo<g ref="char:EOLhyphen"/>nally appearing, and
+<hi>proſtrate</hi> unto the Majeſty of the <hi>Great</hi> and <hi>dreadful
+God,</hi> and in the <hi>preſence of his Holy Angels;</hi> having in
+remembrance the exceeding mercies of his great Goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <note n="*" place="margin">Here Throw your ſelf
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Ground.</note> 
+                  <pb n="26" facs="tcp:133820:16"/>wards me, as in manifold inſtances, ſo eſpecially in
+this; that in the day of my <hi>Chriſt'ning,</hi> I was ſo happily and
+holily <hi>Vowed</hi> and <hi>Dedicated unto God,</hi> to be his Child, and to
+live in his con<g ref="char:EOLhyphen"/>tinual Service; and that contrary to the pro<g ref="char:EOLhyphen"/>feſſion which
+was then made in my name, I have ſo many and ſundry times ſo grievouſly
+<hi>violated my vows,</hi> and <hi>profaned my ſacred promiſes,</hi> and
+employed my Soul to the ſervice of the World, the <hi>Fleſh,</hi> and the
+<hi>Devil.</hi> At length recalling my ſelf, and with all lowlineſs and
+devotion, caſting my Soul and Body <hi>proſtrate</hi> before the
+<hi>dreadful Throne of his Juſtice,</hi> do acknowledg, confeſs, and yeild
+my ſelf a miſerable wretched Sinner, guilty of that Death and Paſſion
+which Chriſt once ſuffered for me upon the tormen<g ref="char:EOLhyphen"/>ting Croſs: But turning
+my ſelf to the <hi>Throne of his infinite mercy,</hi> and with all my might
+and force from the very Deep of my heart, deteſt<g ref="char:EOLhyphen"/>ing the iniquities of my
+fore-paſs'd Life, I moſt humbly beg and crave pardon for the ſame, with
+an entire Abſolution from all my ſins, e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> for the precious Death and Paſſion ſake of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord and Saviour, unto whom I
+promiſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onfirm again, I do avow and
+ſolemnly re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſacred Profeſſion of
+loyal ſervice and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which was
+made in my behalf unto him <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ly Baptiſme,</hi>
+renouncing unfeignedly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of this
+wicked World, the luſts of<pb n="27" facs="tcp:133820:16"/>the Fleſh, and the
+ſuggeſtions of the Devil; and converting my ſelf to my moſt gracious
+and merciful God: I <hi>deſire, deliberate, purpoſe,</hi> and fully
+<hi>reſolve</hi> to honour him, ſerve him, and obey him for ever hereafter;
+<hi>giving</hi> and <hi>dedicating</hi> to him for this end, the <hi>faculties
+of my Soul,</hi> and the <hi>members of my Body,</hi> to be his faithful,
+loyal, and obedient Subjects and Servants for ever; without <hi>unſaying,
+revoking,</hi> or <hi>repenting</hi> me of this my <hi>holy and ſacred
+promiſe,</hi> or, <hi>any part thereof.</hi> And, I moſt humbly beſeech
+Almigh<g ref="char:EOLhyphen"/>ty God, the Father, the Son and the Holy Ghoſt to <hi>confirm me in
+this conſtant reſolution</hi> of abandoning theſe my ſins, and living
+an holy Life: and to accept of this my broken and con<g ref="char:EOLhyphen"/>trite heart, which he
+hath promiſed not to de<g ref="char:EOLhyphen"/>ſpiſe, entirely deſiring his Fatherly
+goodneſs, that as he hath given me a <hi>will and deſire to
+pur<g ref="char:EOLhyphen"/>poſe,</hi> ſo he would give me <hi>ſtrength and grace</hi> to
+<hi>perform</hi> all holy actions through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </p> 
+               <p>LOrd, I pray thee, that thy Grace may al<g ref="char:EOLhyphen"/>ways prevent and follow
+me, and make me continually to be given to all good wor<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>LOrd, I beſeech thee grant thy S<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Grace to withſtand the temptat<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the
+World, the Fleſh, &amp; the Devil; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <pb n="28" facs="tcp:133820:17"/>pure beart and mind to follow thee the only true God,
+through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>O God, whoſe nature and property is ever to have mercy and to
+forgive, Receive my hum<g ref="char:EOLhyphen"/>ble Petitions; and though I be tied and bound with the
+chain of my ſins, yet let the pittifulneſs of thy great mercy looſe me,
+for the honour of Jeſus Chriſt our Mediator and Advocate.
+<hi>Amen.</hi>
+               </p> 
+               <p>O Saviour of the world ſave me! who by thy Croſs and
+Paſſion haſt Redeemed me: help me, and ſave me, I beſeech Thee O
+God.</p> 
+               <p>To the King Eternal, the Immortal, Inviſible, and only Wiſe
+God, who is the ever Bleſſed and Adorable Trinity, be all Honour and Glory,
+now, and for ever. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Having thus ended your <hi>mid-day Devotions,</hi> review your
+<hi>Catalogue</hi> of ſins: Fix on <hi>that ſin,</hi> you find your ſelf
+<hi>moſtly addicted to;</hi> labour for a <hi>Godly ſorrow,</hi> and
+<hi>relentings of heart</hi> on the ſight of it; <hi>reſolve</hi> againſt
+all <hi>future perpe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tions</hi>
+of it, carefully uſing all <hi>remedies</hi> which
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y tend to ſuppreſs it: To
+which purpoſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine</hi> your
+ſelf concerning thoſe <hi>occaſions
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ucements</hi> which lead you to
+it, and <hi>pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ell as you can againſt them,
+<hi>noting in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>k</hi> thoſe
+<hi>Occaſions</hi> and <hi>Remidies</hi> which<pb n="29" facs="tcp:133820:17"/>reaſon or
+experience may prompt you to: <hi>As for example.</hi>
+            </p>
+            <p>Suppoſe your ſelf guilty of <hi>Irreverence,</hi> or <hi>want
+of Devotion</hi> in the ſervice of God: write down, what doth commonly induce
+you to it, what remedies are moſt proper to the cure of it. Thus,</p>
+            <q>In the <hi>year</hi> 1673 <hi>March</hi> 28th. being <hi>Good
+Friday</hi> (or be it any other day) <hi>I Faſted,</hi> being to Receive the
+<hi>Communion</hi> the following <hi>Sun<g ref="char:EOLhyphen"/>day;</hi> and in the exerciſe of
+this holy Duty on <hi>Exammination,</hi> I found my ſelf much guil<g ref="char:EOLhyphen"/>ty of
+<hi>Irreverence</hi> in the worſhip of God, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſcovered theſe Temptations to it. 
+<list>
+                  <item>Too much <hi>addicting</hi> my ſelf to
+<hi>childiſh</hi> an <hi>light Deportments</hi> at all times; and
+therefor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> can hardly remit of them,
+when I come int<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Gods
+Preſence.</item>
+                  <item> 2. Liſtning too much to the <hi>vain Diſcource,</hi>
+and <hi>obſerving</hi> the <hi>impertinent Actions</hi> of O<g ref="char:EOLunhyphen"/>thers.</item>
+                  <item> 3. <hi>Want of Conſideration</hi> in whoſe
+<hi>Preſenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> I am; to wit,
+of <hi>the Great Majeſty of Hea<g ref="char:EOLunhyphen"/>ven;</hi> of that God who, if I doe not
+reper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will ſtrictly call me to
+an Accompt for tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and all other
+my ſins; <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </q>
+            <p>From which <hi>Occaſions</hi> you may eaſ<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceive
+what <hi>remedies</hi> to uſe againſt it; 
+<list>
+                  <pb n="30" facs="tcp:133820:18"/>
+                  <item>1. To labour for a Grave and <hi>modeſt Carriage</hi> of
+my ſelf conſidering my <hi>Age, quality, Degree;</hi> &amp;c.</item>
+                  <item>2. To <hi>avoid vain and light Perſons;</hi> or if that
+may not be done, <hi>not heeding them,</hi> or ſeriouſly <hi>rebuking
+them.</hi>
+                  </item>
+                  <item>3. To entertain all <hi>awful</hi> and <hi>Dreadful
+Apprehenſions</hi> of the <hi>Great God,</hi> who ſeeth what I doe, and how
+I com<g ref="char:EOLhyphen"/>port my ſelf: As alſo, of the <hi>Holy Angels</hi> who may truly
+enough be Believed, from the intimations of the <hi>Apoſtles</hi> St.
+<hi>John, Revel.</hi> viii. and St. <hi>Paul,</hi> 1 <hi>Cor.</hi> xi. 10. to
+<hi>be preſent</hi> at Ho<g ref="char:EOLhyphen"/>ly Myſterys. To theſe may be added</item>
+                  <item>4. <hi>Lifting up my Eyes</hi> to Heaven; or,
+<hi>fixing</hi> them on the <hi>Preiſt;</hi> not in the leaſt <hi>letting
+them looſe</hi> on whatever ob<g ref="char:EOLhyphen"/>jects may preſent
+themſelves.—Theſe I then <hi>Reſolved</hi> to conſider, and
+practiſe; and will therefore frequent<g ref="char:EOLhyphen"/>ly Read them over:</item>
+               </list>
+            </p>
+            <q> 
+               <p>Even <hi>ſoe, Amen:</hi> Lord, Let thy Grace be
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>fficient for me! <hi>Lead me not
+into Temptation; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Deliver me
+from evil.</hi> Amen.</p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kneeling down,
+Pray for <hi>Devotion;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+any other Grace, the contrary ſin
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you have now found your ſelf
+guilty <pb n="31" facs="tcp:133820:18"/>of, and Reſolved againſt. You will find
+<hi>Pray<g ref="char:EOLhyphen"/>ers</hi> to <hi>this purpoſe</hi> at the <hi>latter-end of this
+Book:</hi> As for <hi>Devotion;</hi> Thus,</p>
+            <q> 
+               <p>MOſt Great God, who haſt not only permitted, but invited us
+needy and miſerable Creatures to preſent our Petitions to Thee: Oh! let me
+ſet a true value on this moſt ineſtimable priviledge. I come unto Thee, O
+Lord, as a Worm to my ſovereigne Maker; I come as an heinous offender to a
+juſt and ſevere judge: Let I pray Thee my Addreſſes in thine Houſe be
+with a <hi>Reverence</hi> ſomeway anſwerable to thine <hi>awful
+Majeſty;</hi> Give me an hearty deſire to pray, and ſuch a pure intention
+and ſixedneſs of mind upon Thee, that I may no more incur the Guilt of
+Drawing nigh unto Thee with my <hi>Lips,</hi> when my heart is far from Thee;
+But may ſo Ask, that I may receive; ſeek, that I may find; knock that it
+may be opened unto me; that ſo from praying to Thee here, I may be
+Tranſlated to the Praiſing Thee Eternally in thy Glory hereafter, through
+Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>This exerciſe being finiſhed about <hi>thre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Clock,</hi> the time
+appointed for the <hi>Ev<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſervice;</hi> At your Return
+from the <hi>Churc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Chappel,</hi> if you have not
+fully ſatisfied yo<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <pb n="32" facs="tcp:133820:19"/>own Conſcience, but require further Comfort or
+Counſell, you are to goe to ſome <hi>Diſcreet and Learned Miniſter</hi>
+of <hi>Gods word</hi> (eſpecially to him under whoſe Miniſtry God hath
+placed you, not being Curious or cenſorious in your choice as to this
+particular) and <hi>open your Greif by Confeſſion,</hi> that ſo you may
+receive the be<g ref="char:EOLhyphen"/>nefit of <hi>Abſolution,</hi> together with <hi>Ghoſtly
+Coun<g ref="char:EOLhyphen"/>ſel</hi> and advice to the quieting of your Con<g ref="char:EOLhyphen"/>ſcience, and the
+avoiding of all Scruple and Doubtfulneſs.</p>
+            <p>This being done, (as it ought to be, with Submiſſion and
+ſobriety) you may <hi>with Comfort</hi> Retire into your Cloſet; and
+<hi>upon your Knees,</hi> Say,</p>
+            <q> 
+               <p>
+                  <hi>Our Father; &amp;c,</hi>
+               </p> 
+               <p>
+                  <hi>Deliver us</hi> from evill; Amen.</p> 
+               <p>ALmighty God, unto whom all hearts be open, all deſires known,
+and from whom no ſecrets are hid; cleanſe the Thoughts of my heart by the
+Inſpiration of thy Holy Spirit; that I may perfectly love thee, and worthily
+Magnifie thy Holy Name through Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Then Read, upon <hi>your Knees, the Ten Com<g ref="char:EOLhyphen"/>mandments</hi> as they
+are ſet down in Our <hi>Communion Service.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Spake theſe
+Words;</hi> &amp;c. after each Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dwent; Say,</p>
+            <q>
+               <pb n="33" facs="tcp:133820:19"/> 
+               <p>Lord have mercy upon me; and In<g ref="char:EOLhyphen"/>cline my heart to keep this
+Law!</p> 
+               <p>
+                  <hi>Thou ſhalt not Covet,</hi> &amp;c.</p> 
+               <p>Lord, have mercy upon me; and write all theſe thy Laws in my
+heart, I beſeech thee.</p> 
+               <p>O Almighty Lord, and everlaſting God; vouchſafe, I beſeech
+thee to direct, San<g ref="char:EOLhyphen"/>ctifie and Govern both my Soul and Body in the ways of thy
+Laws, and in the works of thy Commandments, that through thy moſt mighty
+Protection, both here and ever, I may be pre<g ref="char:EOLhyphen"/>ſerved both in Body and Soul,
+through our Lord, and Saviour Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Then ſtand up and heartily repeat your <hi>Creed, I believe in
+God,</hi> &amp;c. After which <hi>Kneel again,</hi> and pray:</p>
+            <q> 
+               <p>Almighty everlaſting God, heavenly Fa<g ref="char:EOLhyphen"/>ther, I give thee humble
+thanks, that thou haſt vouchſafed to bring me to the <hi>knowledge of this
+faith in thee;</hi> and do beſeech thee, that thou wouldſt keep me
+<hi>ſtedfaſt in this faith,</hi> and evermore defend me from all
+adverſities, who liveſt and reigneſt one God World without end.
+<hi>Amen.</hi>
+               </p> 
+               <l>
+                  <hi>Lord have mercy upon me!</hi>
+               </l> 
+               <l>
+                  <hi>Chriſt have mercy upon me!</hi>
+               </l> 
+               <l>
+                  <hi>Lord have mercy upon me!</hi>
+               </l> 
+               <p>
+                  <pb n="34" facs="tcp:133820:20"/>
+                  <hi>OH Chriſt Hear me!</hi> and Remember
+<hi>now that Hour,</hi> in which thou didſt once <hi>Commend thy Bleſſed
+Spirit</hi> into the hands of thy heavenly Father, when with a <hi>Torn
+Body</hi> and a <hi>Broken Heart,</hi> thou didſt ſhew forth the Bowels of
+thy mercy, and Dye for us. I be<g ref="char:EOLhyphen"/>ſeech thee, O thou <hi>Brightneſs</hi> and
+<hi>Image of God,</hi> Aſſiſt me by this thy moſt precious Death, that
+being Dead unto the world, I may live only unto Thee; and at the laſt hour of
+my Departure from this mortal Life, I may Com<g ref="char:EOLhyphen"/>mend my Soul into thine hands,
+and thou mayſt receive me into life immortal, there to Reign with thee for
+ever and ever, <hi>Amen.</hi>
+               </p> 
+               <p>Grant me, in the mean time, Gracious Lord, a pure intention of
+heart, and a ſtedfaſt reſolution to deſpiſe all vanity, to fight the
+Battels of the Lord manfully againſt the world, the fleſh and the Devil, to
+ſpend my time re<g ref="char:EOLhyphen"/>ligiouſly and uſefully, to ſpeak gracious words, to
+walk always in thy preſence, to preſerve my Soul and and Body in holineſs
+fit for the habi<g ref="char:EOLhyphen"/>tation of the Spirit of God; <hi>Amen.</hi>
+               </p> 
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord, and my God;
+Give me I beſeech <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wiſe, a
+ſober, a patient, an underſtand<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>evout, a religious,
+a Couragious heart; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>temperate reins and thoughts; a
+ſoul<pb n="35" facs="tcp:133820:20"/>full of Devotion to doe thee Service; and do thou
+make my ſervices acceptable to thee while I live, and my ſoul ready for
+thee, when I Dye, <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, Increaſe in me Faith and Devotion, repleniſh my heart
+with all Goodneſs, and of thy Great mercy keep me in the ſame; Give me true
+humility in proſperity, patience in ad<g ref="char:EOLhyphen"/>verſity, and continual joy in the
+Holy Ghoſt. <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, Give me Spiritual wiſdom, that I may diſcern what is
+pleaſing to thee, and fol<g ref="char:EOLhyphen"/>low what belongs unto my Peace; and let the
+knowledg and Peace of God, and of Jeſus Chriſt our Lord be my Guide and my
+portion all the Days of my life: <hi>Amen.</hi>
+               </p> 
+               <p>O Lord; make me humble to my Superiors, and friendly to my Equals;
+thankfull to my Benefactors, loving to my Relations, and Charitable to my
+Enemies; to be Gentle and eaſily entreated, ſlow to anger, and readily
+admoniſhed; fully prepared, and throughly furniſhed for every Good word and
+work: <hi>Amen.</hi>
+               </p> 
+               <p>O Lord; Give me a peaceable Spirit,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="36" facs="tcp:133820:21"/>quiet life
+free from Debt and deadly Sin; give me Grace to abſtain from all appearance
+of evil, and to doe nothing but what is of good report; to confeſs Chriſt
+and his holy Religion by an holy and obedient life, and a mind ready to dye for
+him, when he ſhall call for me; and then, O Lord, Aſſiſt me!
+<hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </p> 
+               <p>O Lord Jeſu! I Give thee my Body, my Soul, my ſubſtance, my
+Fame, my Friends, my Liberty and my Life; Diſpoſe of me, and of all that is
+mine, as it ſeemeth beſt to thee, and to the Glory of thy Holy Name:
+<hi>Amen.</hi>
+               </p> 
+               <p>I Am not now <hi>Mine;</hi> But, <hi>Thine:</hi> therefore Claim
+me as thy right, Keep me as thy charge, and love me as thy child: Fight for me,
+when I am aſſaulted, heal me when I am wounded, and Revive me when I am
+de<g ref="char:EOLhyphen"/>ſtroyed: <hi>Amen.</hi>
+               </p> 
+               <p>O God, from whom all Good things do come; Grant to me thy humble
+ſervant, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy holy
+Inſpiration I may think thoſe
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that are Good, and by thy
+mercifull <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may perform the
+ſame, through Jeſus <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord;
+<hi>Amen.</hi>
+               </p> 
+               <p>
+                  <pb n="37" facs="tcp:133820:21"/>GIve me modeſty in my Countenance, Gravity
+in my behaviour, Deliberate<g ref="char:EOLhyphen"/>neſs in my Speech, and righteouſneſs in all
+my Actions: Let thy mercy cleanſe me from my Sins; and let thy Grace bring
+forth in me the fruits of everlaſting life: <hi>Amen.</hi>
+               </p> 
+               <p>O God, who knoweſt us to be ſet in the midſt of ſo many
+and Great Dangers, that by reaſon of the weakneſs of our nature we cannot
+always ſtand upright; Look I beſeech thee, on my frailties and Infirmitys;
+and Grant me ſuch Health of Body, that both in my Soul and Body I may
+evermore ſerve thee with all my ſtrength and might; through Jeſus
+Chriſt our Lord: <hi>Amen.</hi>
+               </p> 
+               <p>GRant, O Lord, that I may live in thy Fear, Dye in thy favour,
+reſt in thy peace, riſe in thy power, reign in thy Glory, for thy only
+Beloved Son's ſake, Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p> 
+               <p>ASſiſt me mercifully, O Lord, in theſe and all my
+Supplications and Prayers and Diſpoſe the way of thy ſervant toward the
+attainment of everlaſting ſalvation;
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mong all the changes and chances
+of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tal life, I may ever be Defended
+by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <pb n="38" facs="tcp:133820:22"/>Gracious
+and ready help, through Jeſus Chriſt our Lord: <hi>Amen.</hi>
+               </p> 
+               <p>GOd the Father bleſs me! God the Son Defend me! God the Holy
+Ghoſt pre<g ref="char:EOLhyphen"/>ſerve me! God the Holy Trinity be with me, now and for ever more!
+<hi>Amen.</hi>
+               </p> 
+            </q>
+            <p>After this apply your ſelf to read ſome <hi>Choice portion of
+Scripture;</hi> particularly, the <hi>Hiſtory</hi> of our Saviours
+paſſions as in the <hi>Goſpels for the Holy week:</hi> Read, with as much
+affection and heartineſs, as is poſſible; all along reflecting on his
+<hi>Innocency,</hi> and <hi>your ſelf,</hi> as being one of thoſe
+<hi>Guilty Wretches,</hi> for whom he Suffered all this.</p>
+            <p>And <hi>think thus with Your ſelf.</hi>
+            </p>
+            <q> 
+               <p>I Have occaſioned more torment to Him, then his very
+<hi>Crucifiers;</hi> they crucified him <hi>Once;</hi> but I have as much, as
+in me lay, cruci<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed him
+<hi>Dayly:</hi> they crucified him, becauſe
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y <hi>knew him not;</hi> but
+<hi>I have known</hi> him, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et
+have ſtill continued thus to crucifie him afre<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Meditations, as
+they ſhould work in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Sorrow</hi> for our ſins paſt, and a great
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and a firm
+<hi>reſolution</hi> againſt them for<pb n="39" facs="tcp:133820:22" rendition="simple:additions"/>the time to
+come; ſo likewiſe ſhould they quicken and ſtir up our <hi>Faith
+in,</hi> our <hi>Love of,</hi> and our <hi>Thankfulneſs unto Chriſt,</hi>
+for his ſo <hi>Great Mercy</hi> in Redceming us by ſo dear a Price.</p>
+            <p>Nor muſt your <hi>Prayers</hi> end here; they are not
+<hi>Compleat</hi> without <hi>Interceſſions,</hi> nor <hi>accep<g ref="char:EOLhyphen"/>table</hi>
+without Charity, which is a main re<g ref="char:EOLhyphen"/>quiſite to a <hi>Worthy
+Communicant.</hi>
+            </p>
+            <p>At <hi>ſix of Clock</hi> therefore betake your ſelf a<g ref="char:EOLhyphen"/>gain to
+Prayer for <hi>All Men;</hi> for Chriſt's <hi>Holy Catholick Church;</hi> and
+for all, who either by <hi>Relation, Acquaintance,</hi> or more <hi>particular
+Deſire,</hi> may claim a <hi>ſhare</hi> in your Prayers.</p>
+            <q> 
+               <p>Our <hi>Father;</hi> &amp;c.</p> 
+               <p>
+                  <hi>Deliver us from Evil;</hi> Amen.</p> 
+               <p>ALmighty God, who of thy tender love <hi>towards Mankind</hi>
+haſt ſent thy Son our Saviour Jeſus Chriſt to take upon him our
+fleſh, and to ſuffer Death upon the Croſs, that <hi>all Mankind</hi>
+ſhould follow the examp<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of his
+Great Humility; Mercifully Gra<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+that I may both follow the example of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Patience, and alſo be made
+partaker of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Reſurrection,
+through the ſame Jeſus Chr<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+our Lord, <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, I beſeech Thee,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to Behold <hi>thy Family</hi>
+for which ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="40" facs="tcp:133820:23"/>Jeſus
+Chriſt was contented to be Betrayed, and given up into the hands of wicked
+men, and to ſuffer Death upon the Croſs; who now Liveth and Reigneth with
+Thee and the Holy Ghoſt, ever One God, world without end, <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty and everlaſting God, by whoſe Spirit, the <hi>whole
+Body of the Church</hi> is governed and Sanctified; Receive my Sup<g ref="char:EOLhyphen"/>plications
+and Prayers which <hi>I offer before Thee</hi> for all <hi>Eſtates</hi> of
+men in thy <hi>Holy Church,</hi> that <hi>every member</hi> of the ſame, in
+his Vocati<g ref="char:EOLhyphen"/>on and Miniſtry, may truly and Godly ſerve Thee, through our
+Lord and Saviour Jeſus Chriſt, <hi>Amen.</hi>
+               </p> 
+               <p>O Merciful God, who haſt <hi>made all men,</hi> and hateſt
+nothing that thou haſt made, nor wouldeſt the Death of a ſinner, but
+rather that he ſhould be Converted and live: Have mercy upon all <hi>Jews,
+Turks, Infidells;</hi> and take from them all Ignorance, hardneſs of
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eart and contempt of thy Word; and
+ſo <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ch them home, Bleſſed
+Lord, that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay be ſaved
+among the Remnant of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rue
+<hi>Iſraelites,</hi> and be made <hi>One Flock</hi> under <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>aperd</hi> Jeſus Chriſt our
+Lord, who liv<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eigneth with Thee, and the Holy
+<hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> God</hi> world without
+end, <hi>Amen.</hi>
+               </p> 
+               <p>
+                  <pb n="41" facs="tcp:133820:23"/>ALmighty God, who haſt purchaſed to thy
+ſelf, an <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church</hi> by the preci<g ref="char:EOLhyphen"/>ous Bloud of thy Dear
+Son; mercifully look on <hi>that part of it in theſe Kingdoms, ſo
+miſera<g ref="char:EOLhyphen"/>bly ſhattered and diſtreſſed.</hi> I confeſs, O Lord, our
+ſins have juſtly deſerved that thou ſhouldſt remove thy Candleſtick
+from us, and by ſome extraordinary judgment make us a ſcorn and a By-word
+to the World; But, I beſeech Thee, Reverſe thoſe Plagues which we have
+deſerved; and continue thoſe mercys which we have hitherto injoyed,
+eſpecially the com<g ref="char:EOLhyphen"/>fort of thy Goſpel, and liberty of thy Truth. Oh! Let
+not our Adverſarys, neither <hi>Papiſts, nor Schiſmaticks</hi> ever roar
+in the midſt of our Con<g ref="char:EOLhyphen"/>gregations, and ſet up their Banners as ſigns of
+Victory, and Conqueſt over us; But ſheild and Protect us with thy mercy,
+that in thy Holy Church we may ſtill Glorify thy Name, through Chriſt our
+Lord, <hi>Amen.</hi>
+               </p> 
+               <p>O God, the unſpeakable <hi>Authour of the World, Creator of
+Men,</hi> Governour o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Empires, and
+Eſtabliſher of all Kingdom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who
+out of the loyns of our Father <hi>ABR<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>HAM</hi> didſt chuſe a <hi>King,</hi> that became the Sa<g ref="char:EOLhyphen"/>viour
+of all Kings and Nations of the Ear<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Bleſs, I
+beſeech Thee, thy Servant <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Dread Sovereign Lord <hi>King
+CHAR<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>S</hi>
+                  <pb n="42" facs="tcp:133820:24"/>with the richeſt bleſſings of thy Grace; and Eſtabliſh him
+in the Throne of his Kingdome by thy mighty Aid and Protection: viſit him, as
+thou didſt viſit <hi rend="blackletterType">Moſes</hi> in the
+<hi>Buſh,</hi> 
+                  <hi rend="blackletterType">Ioſhua</hi> in the <hi>Battel,</hi>
+                  <hi rend="blackletterType">Gideon</hi> in the <hi>Feild,</hi>
+                  <hi rend="blackletterType">Samuel</hi> in the <hi>Temple:</hi> Let the dew of thy
+abun<g ref="char:EOLhyphen"/>dant mercies fall upon his Head, and give unto him, the Bleſſing of
+<hi rend="blackletterType">David</hi> and <hi rend="blackletterType">Solomon:</hi> Be
+unto him an Helmet of Salvation againſt the face of his Enemies, and a
+ſtrong tower of Defence in the time of Adverſity; let his Reign be
+proſperous, and his Days many: let Peace, and Love, and Holineſs; let
+juſtice and Truth, and all Chriſtian Vertues flouriſh in his time; let
+his People ſerve him with Ho<g ref="char:EOLhyphen"/>nour and Obedience; and let him ſo duly
+ſerve Thee here on Earth, that he may here<g ref="char:EOLhyphen"/>after Everlaſtingly ſerve Thee
+in Heaven, through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p> 
+               <p>I Beſeech Thee, O Lord, to Save and De<g ref="char:EOLhyphen"/>fend all Chriſtian
+Kings, Princes and Go<g ref="char:EOLhyphen"/>vernours; eſpecially thy Servant <hi>CHARLES,
+King,</hi> that under him we may be godly and
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tly governed; and Grant unto his
+<hi>whole <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ncel,</hi> and to all
+that are put in Authority <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>der
+him, that they may truly and indif<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Miniſter
+Juſtice, to the puniſhment of W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>eſs and Vic, and
+to the mainte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy true Religion and Vertue,
+<hi>Amen.</hi>
+               </p> 
+               <p>
+                  <pb n="43" facs="tcp:133820:24"/>ALmighty God, the God of all mercy, I humbly
+beſeech Thee to pour down the riches of thine abundant Goodneſs upon the
+Head of thine Hand-maid our moſt Gracious <hi>Queen KATHERINE,</hi> that
+ſhe being conti<g ref="char:EOLhyphen"/>nually beautified with the <hi>Royal Ornaments</hi> of thy
+heavenly <hi>Grace,</hi> may be <hi>holy</hi> and <hi>Devout</hi> as
+<hi>HESTER, Loving</hi> to the King as <hi>RA<g ref="char:EOLhyphen"/>CHEL, fruitful</hi> and
+<hi>wiſe</hi> as <hi>REBECCA,</hi> and <hi>Obedient</hi> as <hi>SARAH;</hi>
+and with long life and glory continuing in her high and Princely e<g ref="char:EOLhyphen"/>ſtate,
+ſhe may at the laſt be brought to the great happineſs of thine
+everlaſting eſtate here<g ref="char:EOLhyphen"/>after, through Jeſus Chriſt our Lord,
+<hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, the fountain of all good<g ref="char:EOLhyphen"/>neſs, I humbly beſeech
+Thee to bleſs the moſt Illuſtrious Prince, <hi>James</hi> Duke of
+<hi>YORK,</hi> and all the <hi>Royal Family:</hi> Endue them with thy Holy
+Spirit, enrich them with thy heavenly Grace, proſper them with all
+hap<g ref="char:EOLhyphen"/>pineſs, and bring them to thine everlaſting Kingdom, through Jeſus
+Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, who alone workeſt great Marvels, Give grace to all
+<hi>Biſhops, Prieſts</hi> and <hi>Deacons,</hi> eſpecially to thoſe
+<hi>under whoſe Deſpenſations I live:</hi> Illuminate them with 
+<pb n="44" facs="tcp:133820:25"/>true knowledge and underſtanding of thy Word; and grant
+that by their Preaching and living they may ſet it forth, and ſhew it
+ac<g ref="char:EOLhyphen"/>cordingly, and alſo rightly and duely admini<g ref="char:EOLhyphen"/>ſter thy holy Sacraments:
+Grant this for thy Son Jeſus Chriſt his ſake, <hi>Amen.</hi>
+               </p> 
+               <p>O Thou God of Truth, Bring into the way of Truth, all ſuch as
+have err'd &amp; are deceiv'd! O Thou Father of Comforts, ſuccour, help and
+comfort all that are in danger, neceſſity and tri<g ref="char:EOLhyphen"/>bulation; preſerve all
+that travel by land or by water; all women labouring of Child, all ſick
+perſons and young Children; ſhew thy pitty upon all Priſoners and
+Captives; pro<g ref="char:EOLhyphen"/>vide for the Fatherleſs Children and Widows, and all who are
+deſolate and Oppreſſed: yea, have mercy upon <hi>all men,</hi>
+eſpecially thoſe whom thou haſt called to the <hi>Knowledg of,</hi> and
+<hi>Faith in</hi> thy Son Jeſus Chriſt, <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, who haſt commanded me to honour my Father and my
+Mother; Grant me of thy goodneſs and Grace ſo to love and honour them, to
+fear and obey them, to help and to pray for them, as thou in thy holy Word
+haſt directed and charged me to do, that both in their lives and Deaths their
+Souls may bleſs me: Give them I pray<pb n="45" facs="tcp:133820:25"/>Thee peace and
+plenty, Defend them from all dangers both of body and ſoul; keep them in the
+ſtedfaſtneſs of thy Faith, and in the obe<g ref="char:EOLhyphen"/>dience of thy holy
+Commandments: Bleſs them O Lord, and all other my Relations and Be<g ref="char:EOLhyphen"/>nefactors,
+make us doubly dear to each other, both in the fleſh and in the Lord, and
+that for our Lord Jeſus Chriſt his ſake. <hi>Amen.</hi>
+               </p> 
+               <p>O God from whom every good and per<g ref="char:EOLhyphen"/>fect gift proceedeth; Accept my
+<hi>Praiſe</hi> and <hi>Thanksgiving</hi> which I offer unto thee for all thy
+Mercys and Benefits from time to time vouchſafed unto me; For my <hi>Health,
+Peace, Liberty, Freinds,</hi> and all other Bleſ<g ref="char:EOLhyphen"/>ſings of this Life; For
+<hi>Jeſus Chriſt</hi> the Foun<g ref="char:EOLhyphen"/>tain of all; for his <hi>Conception, Birth,
+Cir<g ref="char:EOLhyphen"/>cumciſion;</hi> for his <hi>Baptiſm, Faſting, Tempta<g ref="char:EOLhyphen"/>tion;</hi> for
+his Holy and moſt <hi>exemplary Life;</hi> for his bitter, cruel, and yet
+patient and <hi>Meri<g ref="char:EOLhyphen"/>torious Death;</hi> for his Victorious Triumphant
+<hi>Deſenſion into Hell;</hi> for his Glorious <hi>Reſur<g ref="char:EOLhyphen"/>rection</hi> and
+<hi>Aſenſion;</hi> for the <hi>Coming of the Holy Ghoſt,</hi> the
+<hi>Eternal Comforter</hi> upon the <hi>Apoſtles</hi> on the Day of
+<hi>Pentecoſt;</hi> And from that time, for the conſtitution of a
+<hi>Catholique</hi> and <hi>Apoſtolique</hi> Church, which is to <hi>Continue
+to the end of the World.</hi> and I beſeech that O Lord, Give me that due
+ſenſe of all thy Mer<g ref="char:EOLhyphen"/>cys,<pb n="46" facs="tcp:133820:26" rendition="simple:additions"/>that my heart may be
+unfeignedly thank<g ref="char:EOLhyphen"/>ful; and that I may ſhew forth thy Praiſe not only with
+my Lips but in my life, by giving up my ſelf unto thy ſervice, and by
+walking before Thee in Holineſs and Righteouſneſs all my Days, through
+Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, who by thy <hi>Holy Apoſtle</hi> haſt taught us,
+not only to make Prayers &amp; ſupplications; but alſo to <hi>Give
+thanks</hi> for all men: I offer up unto thee moſt <hi>high Laud</hi> and
+<hi>humble thanks</hi> for all thy wonderful <hi>Graces and Virtues</hi> which
+thou haſt declared in <hi>All thy Saints;</hi> cheifly in the Glorious and
+<hi>moſt Bleſſed Virgin</hi> 
+                  <note n="†" place="margin">S. <hi>Luke</hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>MARY,</hi> the
+<hi>Mother of thy Son Jeſus Chriſt;</hi> &amp; all <hi>o<g ref="char:EOLhyphen"/>thers</hi> who
+have <hi>Departed this Life</hi> with the <hi>Seal of Faith,</hi> and do now
+reſt in the <hi>ſleep of P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e;</hi> ſuch as
+were the <hi>Patriarchs, Prophets, Apoſtles, Martyrs</hi> &amp;
+<hi>Confeſſors;</hi> Holy <hi>Virgins,</hi> pious <hi>Matrons,</hi> and 
+<note n="*" place="margin">1 <hi>Tim.</hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.3,—16.</note>
+                  <hi>Devout
+Widows,</hi> who have waſhed the feet of the Saints: Beſeeching Thee, that
+we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay ſtill continue in their
+<hi>H. Communion,</hi> &amp; en<g ref="char:EOLhyphen"/>joy the comfort thereof while we are on earth,
+fol<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ving with a glad will and mind
+their <hi>holy Examples</hi> of godly living and ſtedfaſtneſs in thy
+Faith; and that at the laſt Day <hi>we with<pb n="47" facs="tcp:133820:26" rendition="simple:additions"/>them,</hi> and <hi>They with us</hi> may attain to the Re<g ref="char:EOLhyphen"/>ſurrection
+of the juſt, and have our perfect Conſummation and Bliſs both in Body
+&amp; Soul in thy eternal and everlaſting Glory through Jeſus Chriſt our
+Lord; to whom with Thee and the Holy Ghoſt be Aſcribed by us, as it is by
+<hi>Angels</hi> and <hi>Archangels</hi> and the <hi>whole Company</hi> of
+Heaven, all Honour and Glory, World without end. <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, who haſt promiſed to hear the Petitions of them
+that ask in thy Son's Name; I beſeech Thee mercifully to incline thine Ears
+unto me, now that <hi>in his Name,</hi> I have made my <hi>Prayers and
+Supplications unto Thee;</hi> and, grant that thoſe things which I have
+faithfully asked, <hi>according to thy Will,</hi> may effectually be obtain'd
+to the Relief of my Neceſſity, and to the ſetting forth of thy Glory,
+through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>THe Peace of God which paſſeth all under<g ref="char:EOLhyphen"/>ſtanding; The
+Bleſſing of God Almighty, the Father, the Son, and the Holy Ghoſt; the
+virtue of Chriſt's Bleſſed Croſs and Paſſion, be with Me now, at
+the Hour of Death, and in the day of Judgment. <hi>Amen.</hi>
+               </p> 
+            </q>
+            <p>
+               <hi rend="blackletterType">Thus</hi> may you end your <hi>Courſe of
+Prayers</hi> for every <hi>Friday,</hi> preceding a <hi>Communi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>-Sunday:</hi> They are ſuch, I
+think, as may <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t your
+<hi>Leiſure</hi> and <hi>Condition;</hi> if not, you are<pb n="48" facs="tcp:133820:27"/>prudent enough <hi>to leave out,</hi> or <hi>alter</hi> what you ſee
+good: I have too all along ſuppoſed your <hi>Conſtitution ſtrong
+enough</hi> to hold out ſuch a Faſt; if your <hi>Health will not bear
+it,</hi> in God's Name, <hi>Eat;</hi> but, <hi>moderately,</hi> and let your
+Food be <hi>Mean</hi> and <hi>Ordinary;</hi> ſuch as a <hi>Cruſt of
+Bread,</hi> a little <hi>Wine,</hi> or a Glaſs of <hi>Small-Beer,</hi>
+&amp;c.</p>
+            <p>However at <hi>Seven of the Clock</hi> with chear<g ref="char:EOLhyphen"/>fulneſs depart
+your Cloſet: let not your Be<g ref="char:EOLhyphen"/>haviour be without <hi>Innocent Alacrity;</hi>
+but, let your ſpecial Care be to comport your ſelf at theſe your
+<hi>Faſts,</hi> that they may not (if poſ<g ref="char:EOLhyphen"/>ſible) be taken notice of by
+any, but your ſelf and God; as being mindful of that Command of our Saviour,
+St. <hi>Mat.</hi> vi. 17, 18. <hi>Anoint thy Head, and waſh thy Face, that
+thou appear not unto Men to faſt:</hi> Be ſure then, to avoid all
+<hi>Sullenneſs,</hi> and <hi>Moroſeneſs;</hi> but, give ready and
+chearful Anſwers to any that ſhall demand you.</p>
+            <p>Thus diſpoſed, you are ready for your <hi>Sup<g ref="char:EOLhyphen"/>per</hi> by
+<hi>Seven a Clock,</hi> which the preſent <hi>Cuſtom</hi> and <hi>Law</hi>
+of the Church you live in, will not allow to be <hi>Fleſh;</hi> but
+<hi>Fiſh, Eggs,</hi> or ſome ſuch thing; whereto, notwithſtanding your
+<hi>l<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>g Abſtinence,</hi> you
+muſt not let looſe your A<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>etite; but Eat <hi>more ſparingly</hi> than at other ti<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s.</p>
+            <p>
+               <pb n="49" facs="tcp:133820:27"/>Thoſe few Hours from Supper, to
+<hi>Bed-time,</hi> you cannot better beſtow than in <hi>Reading,</hi> or
+<hi>Walking,</hi> and <hi>Meditating</hi> on the particular Ex<g ref="char:EOLhyphen"/>erciſes of
+your <hi>Faſt;</hi> examining your ſelf, Whither you have been as
+<hi>Intent,</hi> as <hi>Devout</hi> in the Performance of them as is
+requiſite? And where you have <hi>failed,</hi> heartily <hi>bewail your
+ſelf</hi> to God, <hi>Reſolving</hi> within your ſelf to be <hi>more
+ſerious</hi> and <hi>careful</hi> for the Time to come. Be frequent and
+diligent in looking o<g ref="char:EOLhyphen"/>ver your <hi>Accomptal,</hi> obſerving <hi>every
+Week</hi> ſince you <hi>laſt Communicated,</hi> what your <hi>Carriage</hi>
+hath been? How you have <hi>amended,</hi> eſpeci<g ref="char:EOLhyphen"/>ally in thoſe Particulars,
+in which you have formerly taken notice of your <hi>Miſcarriages,</hi> and
+<hi>Vowed Reformation?</hi>
+            </p>
+            <p>Sometime before you retire to your <hi>Even<g ref="char:EOLhyphen"/>ing-Prayers,</hi>
+Return to your <hi>Cloſet;</hi> and there let your <hi>Charity</hi> crown
+your Devotions, [1 <hi>Cor.</hi> xv. 2.] <hi>Setting apart,</hi> and
+<hi>Devoting</hi> ſomewhat unto God of what you have to the <hi>Relief of his
+wanting Servants;</hi> diſtributing it, when you <hi>ſee Occaſion:</hi>
+In the mean time, <hi>Separate it from the reſt of your ſtore,</hi> and
+ever after look upon it as <hi>Devote,</hi> and <hi>not to be touched,</hi>
+ex<g ref="char:EOLhyphen"/>cept to be <hi>diſpenſed to the Poor;</hi> when you do thus
+<hi>Conſecrate</hi> it unto God, uſe this, or the
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ke Ejaculation;</p>
+            <q>
+               <pb n="50" facs="tcp:133820:28"/> 
+               <p>WHat I give, O Lord, is of <hi>my Own,</hi> as thou haſt
+proſpered me; if I have <hi>wronged any One,</hi> I am ready to reſtore
+fourfold.<note place="margin">St. <hi>Luke</hi> xix.viii.</note>
+               </p> 
+               <p>O Lord, whoſe is the Earth, and the fulneſs thereof; I
+<hi>offer</hi> unto Thee, <hi>What by thy Gift and Bleſſing I have,</hi>
+this ſmall Teſtimony of my <hi>Thank-fulneſs,</hi> to be beſtowed on
+thoſe <hi>Poor Chriſtians,</hi> whom thy Providence ſhall give me
+opportunity to Releive: Be thou pleaſed through the Bloud of my Saviour to
+accept it, and pardon all my <hi>vain Expences.</hi> Amen.</p> 
+               <p>Thou art my God; my Goods are nothing unto Thee; All my Delight
+is upon the Saints that are in the Earth, and upon ſuch as excel in
+Virtue.</p>
+            </q>
+            <p>About <hi>Ten, or Eleven of the Clock,</hi> betake your ſelf to
+your <hi>ordinary Prayers</hi> for the <hi>Evening;</hi> which begin, with this
+Clauſe,</p>
+            <q> 
+               <p>O Lord, I do again humbly preſent my ſelf before Thee; let my
+Prayers be ſet forth in thy ſight as <hi>Incenſe,</hi> and the lifting up
+of my hands an <hi>Evening-Sacrifice,</hi> even for Jeſus Chriſt his
+ſake. <hi>Amen.</hi>
+               </p> 
+               <p>
+                  <hi>Our Father,</hi> &amp;c.</p> 
+               <p>
+                  <hi>For thine is the</hi> Kingdom, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>Then Read a <hi>Pſalm;</hi> which conclude with,</p>
+            <q> 
+               <p>Glory <hi>be to the Father,</hi> &amp;c.</p>
+            </q>
+            <p>
+               <pb n="51" facs="tcp:133820:28"/>After it, a <hi>Chapter</hi> out of the
+<hi>New Teſta<g ref="char:EOLhyphen"/>ment,</hi> at the end of which,</p>
+            <q> 
+               <p>
+                  <hi>Sing unto the Lord a new Song,</hi> &amp;c. 
+<bibl>
+                     <hi>Pſal.</hi> xcviii.</bibl>
+               </p>
+            </q>
+            <p>Or,</p>
+            <q> 
+               <p>
+                  <hi>God be merciful unto us,</hi> &amp;c. 
+<bibl>
+                     <hi>Pſal.</hi> lxvii;</bibl>
+               </p>
+            </q>
+            <p>Concluding either, with</p>
+            <q> 
+               <p>
+                  <hi>Glory be to the Fa<g ref="char:EOLhyphen"/>ther,</hi> &amp;c.</p>
+            </q>
+            <p>After which devoutly repeat your <hi>Creed,</hi>
+            </p>
+            <q> 
+               <p>I <hi>Believe in God,</hi> &amp;c.</p> 
+               <p>The <hi>Lord be with me!</hi> Amen.</p> 
+               <p>Our Father, <hi>&amp;c.</hi>
+               </p> 
+               <p>
+                  <hi>Deliver us from Evil.</hi> Amen.</p> 
+               <p>ALmighty and moſt merciful Father; but a moſt ſevere and
+juſt Judge, to all Ob<g ref="char:EOLhyphen"/>ſtinate and Impenitent Sinners; I acknowledg and
+bewail my manifold Sins and Wicked<g ref="char:EOLhyphen"/>neſs, which I from time to time, moſt
+grie<g ref="char:EOLhyphen"/>vouſly have committed, in Thought, Word, and Deed, againſt thy Divine
+Majeſty: I have ſinned! And what ſhall I do unto Thee, O Thou Preſerver
+of Man? I have left undone thoſe things which I ought to have done; and I
+have done thoſe things which I ought not to have done, and there is no Health
+in me! But, Thou, O Lord, Have Mercy upon me, a moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> miſerable Offender! Oh! Thou, who deſire<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> not the Death of a Sinner, but,
+rather that he ſhould turn from his Wickedneſs and live, Have Mercy upon
+me; ſpare and reſtore me,<pb n="52" facs="tcp:133820:29"/>who deſire in all humility
+to confeſs my Faults, and to be Penitent for them: Have regard to thy Son
+<hi>Jeſus Chriſt,</hi> who is our <hi>Advocate</hi> with Thee, and the
+<hi>Propitiation</hi> for all our Sins; for whoſe ſake, Grant me true
+Repentance, and the Aſſiſtance of thy <hi>Holy Spirit,</hi> to pleaſe
+Thee hereafter in all things, to Teach and En<g ref="char:EOLhyphen"/>able me to deny all
+Ungodlineſs, and Worldly Luſts, and to live Soberly, Godly, and
+Righ<g ref="char:EOLhyphen"/>teouſly in this preſent Evil World, that ſo at laſt, I may come to
+thine Eternal Joy, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God our Heavenly Father, who of thy great Mercy, haſt
+promiſed <hi>For<g ref="char:EOLhyphen"/>giveneſs of Sins</hi> to all them that with hearty
+Repentance, and true Faith turn unto Thee, Have Mercy upon me; Pardon and
+deliver me from all my Sins; confirm and ſtrengthen me in all Goodneſs; And
+bring me to Everlaſting Life, through Jeſus Chriſt our Lord.
+<hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </p> 
+               <p>ALmighty and Ever-living God, who haſt commanded me to Pray for
+<hi>all Men;</hi> I <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mbly
+beſeech Thee, moſt mercifully to re<g ref="char:EOLhyphen"/>ceive theſe my Prayers which I offer
+unto thy Divine Majeſty; beſeeching Thee to inſpire continually the
+<hi>
+                     <g ref="char:V">Ʋ</g>niverſal Church,</hi> and ſpecial<g ref="char:EOLhyphen"/>ly <pb n="53" facs="tcp:133820:29"/>that
+<hi>part of it in theſe Kingdoms</hi> with the Spirit of Truth, Unity, and
+Concord: Bleſs him who is Supreme Governour over it, our moſt Gracious
+Soveraign Lord K. <hi>CHARLS;</hi> Treaſure up in Him all thy Hidden
+Bleſſings, make and keep him a Devoted Servant unto Thee, a Conſtant
+Patron of thy Church and Truth; that he may live long, and be full of
+Honourable Succeſs all his days, in his Per<g ref="char:EOLhyphen"/>ſon, in his Actions, in his
+Queen, in the whole Royal Family, in his Servants, in his People; and crowned
+with Glory after Life: Under him, Bleſs the whole State Eccleſiaſtical
+and Civil; that Righteouſneſs and Peace may kiſs each other, and we Serve
+and Honour Thee for ever. <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, Bleſs all the Afflicted Members of the Body of thy Son,
+whereſoever, how<g ref="char:EOLhyphen"/>ſoever diſtreſſed: Send them conſtant Pati<g ref="char:EOLhyphen"/>ence,
+and ſpeedy Deliverance, as ſeems beſt to Thee, and is beſt for them:
+And do unto them according to all thoſe Mercies, which I would or ſhould
+deſire thou ſhouldeſt ſhew to my own Soul, if at any time Thou ſhalt
+be pleaſed to make my Eſtate as theirs is at this preſent; And, O Lord,
+Be merciful! <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </p> 
+               <p>GRacious God, Bleſs all the places to which Thou haſt made me
+have any near Re<g ref="char:EOLhyphen"/>ference,<pb n="54" facs="tcp:133820:30"/>every Soul contained in them: All
+my Friends, Kindred, and Acquaintance; any to whom Thou haſt made me any way
+Behol<g ref="char:EOLhyphen"/>den, eſpecially my <hi>Father, Mother,</hi> &amp;c. Lord, I beſeech
+Thee, forgive me and them all our ſins, and continue us thy Servants, both in
+Life and Death. <hi>Amen.</hi>
+               </p> 
+               <p>ALmighty God, Father of all Mercies, I thine unworthy Servant, do
+give Thee moſt humble and hearty thanks for all thy Good<g ref="char:EOLhyphen"/>neſs, and Loving
+Kindneſs beſtowed on me: Above all, for the <hi>Redemption</hi> of the
+World by our <hi>LORD JES<g ref="char:V">Ʋ</g>S CHRIST;</hi> in Him, for the means of Grace, and
+for the Hope of Glory: For all the Bleſſings of this Life; for thy
+Creating, and for thy Protection of me all my Days; and particularly, that
+<hi>this Day paſt</hi> thou haſt pre<g ref="char:EOLhyphen"/>ſerved me in my Health, and
+<hi>aſſiſted me in my Devotions</hi>
+                  <note n="*" place="margin">or,
+<hi>proſpered me in my Af<g ref="char:EOLhyphen"/>fairs.</hi>
+                  </note>. Give me I beſeech Thee, a due
+Senſe of theſe thy Mercies, and Grace and Power to expreſs it by an
+Obedience to all thy Com<g ref="char:EOLhyphen"/>mandments. Go on to preſerve, and take me into thy
+Protection this night: Lighten my Darkneſs, O Lord, and by thy great Mercy
+Defend me from all Perils and Dangers of this night, for the Love of thy only
+Son Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+            </q>
+            <p>
+               <pb n="55" facs="tcp:133820:30"/>[Subjoyne to theſe, or the like your
+<hi>Or<g ref="char:EOLhyphen"/>dinary Devotions,</hi> the <hi>Two Coll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts</hi> for <hi>Prepa<g ref="char:EOLhyphen"/>ration</hi> to the <hi>Holy Communion,</hi>
+which are above<g ref="char:EOLhyphen"/>written; as alſo the Cii. <hi>Pſalm,</hi> Hear <hi>my
+Prayer, O Lord,</hi> &amp;c. <hi>Glory be to the Father,</hi> &amp;c.
+Concluding all with the <hi>aforementioned Benediction.</hi>]</p>
+            <q> 
+               <p>THe Lord fulfill all the Deſires and Petiti<g ref="char:EOLhyphen"/>ons of thy Servant,
+as may be moſt ex<g ref="char:EOLhyphen"/>pedient for me! The Lord bleſs me, and keep me! the Lord
+lift up the Light of his Coun<g ref="char:EOLhyphen"/>tenance upon me, and give me Peace, both now and
+for evermore. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>AS you <hi>
+                  <g ref="char:V">Ʋ</g>ndreſs</hi> your ſelf, conſider <hi>that</hi>
+the Time is coming, when your <hi>Body</hi> muſt return <hi>Naked</hi> unto
+the <hi>Duſt;</hi> and both <hi>Soul</hi> and <hi>Body</hi> appear at
+God<hi>'s Tribunal,</hi> to give an accompt of all Actions done in the Fleſh;
+In the mean time, you muſt endeavour to cleanſe it by Repentance, that God,
+who is of more pure Eyes then to behold Iniquity, may behold and accept it.</p>
+            <p>As you <hi>enter into your Bed,</hi> Say,</p>
+            <q> 
+               <p>IN the Name of our <hi>Lord Jeſus Chriſt,</hi> who was
+Crucified upon his Croſs, and <hi>laid in<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> his Grave</hi> for me, <hi>I lay me down to reſt:</hi> He
+Bleſs me! and keep me! He ſave me! and Raiſe me up again! and bring me at
+laſt unto Life Eternal! <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <pb n="56" facs="tcp:133820:31"/>
+               <hi>As you betake your ſelf to ſleep,</hi>
+Say,</p>
+            <q> 
+               <p>I Will lay me down in Peace, and <hi>take my reſt;</hi> for it
+is Thou, Lord, only that makeſt me dwell in ſafety. <hi>Amen.</hi>
+               </p> 
+               <p>Have Mercy upon me, O Lord, Now, and at the Hour of Death!
+<hi>Amen.</hi>
+               </p> 
+               <p>Preſerve me while I am <hi>Waking,</hi> Defend me while I am
+<hi>Sleeping;</hi> that my Soul may continually Watch for Thee, and both Body
+and Soul may reſt in thy Peace for ever. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+               </p>
+            </q>
+            <p>Should you in the <hi>Night-time</hi> lye <hi>Awake,</hi> Say,</p>
+            <q> 
+               <p>O Lord, Thou haſt proved and viſited my Heart in the
+<hi>Night-Seaſon,</hi> thou haſt tried me: O Bleſſed Father, purge me,
+that thou mayeſt find no wickedneſs in me, through Jeſus Chriſt our
+Lord. <hi>Amen.</hi>
+               </p> 
+               <p>LOrd, give me Grace to make haſt, and not to prolong the time to
+keep thy Commandments; that I may call my own ways to Remembrance, and turn my
+Feet to thy Teſtimonies: And then, at <hi>Mid-night</hi> will I give Thee
+thanks, becauſe of thy Righte<g ref="char:EOLhyphen"/>ous Judgments, O Lord, my Strength and my
+Redeemer. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>In caſe you are not preſently <hi>diſpoſed to
+ſleep,</hi> devoutly Repeat the Lj. <hi>Pſalm,</hi>
+               <pb n="57" facs="tcp:133820:31"/>which to that purpoſe, you muſt be care<g ref="char:EOLhyphen"/>ful to get <hi>by
+heart:</hi>
+            </p>
+            <q> 
+               <p>Have Mercy upon me, O God, <hi>&amp;c.</hi>
+               </p> 
+               <p>
+                  <hi>Glory be to the Father,</hi> &amp;c.</p>
+            </q>
+            <p>HAving thus ordered your <hi>Penitential Devo<g ref="char:EOLhyphen"/>tions</hi> on the
+<hi>Fryday;</hi> you have the leſs to do on the <hi>Saturday,</hi> nothing
+but to guard your ſelf more ſtrictly againſt Temptations, that they
+prevail not upon you; to which pur<g ref="char:EOLhyphen"/>poſe, Be much in <hi>Reading the
+Scripture,</hi> or ſome Good Book; particularly <hi>The whole Duty of
+Man;</hi> the <hi>Third Partition</hi> of it concerns the <hi>Lord's
+Supper,</hi> which after <hi>Evening-Prayer</hi> read conſiderately over,
+applying every Paſ<g ref="char:EOLhyphen"/>ſage to your ſelf, as being ſome way or other
+concern'd in it.</p>
+            <p>PArt of this Day, you may beſtow in <hi>Offices of Charity:</hi>
+As, <hi>Viſiting your ſick Freinds,</hi> or <hi>reconciling</hi> your
+ſelf to any with whom you may have had any <hi>Difference,</hi> as you
+ſhall find occaſion; or, as you ſhall be directed by your <hi>Spiritual
+Guide.</hi>
+            </p>
+            <p>On <hi>Sunday-Morning</hi> you riſe by <hi>Six a Clock;</hi> and
+ſubjoyn to your <hi>Morning-Prayers</hi> thoſe <hi>Two Collects for
+Prepar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion</hi> above
+mentioned.</p>
+            <p>After this conſider, How you may with <hi>due Devotion</hi>
+comport your ſelf at the <hi>Holy Al<g ref="char:EOLhyphen"/>tar?</hi>
+               <pb n="58" facs="tcp:133820:32"/>and, what
+are thoſe particular <hi>Duties</hi> and <hi>Graces</hi> you are there to
+exerciſe? You will find an account of them in the <hi>Third Par<g ref="char:EOLhyphen"/>tition</hi>
+of the <hi>Whole Duty of Man.</hi>
+            </p>
+            <p>Then examine the State and Temper of your <hi>Heart;</hi> whither
+it be <hi>Tender,</hi> and affecti<g ref="char:EOLhyphen"/>onately diſpoſed to <hi>Relentings</hi>
+for your Sins, <hi>Purpoſes</hi> againſt them, and a <hi>Reſolution</hi>
+for a Holy Life? To humble <hi>Reliances,</hi> and truſt on God in our
+<hi>Saviour's Bloud</hi> for Pardon? To <hi>Spiritual Joy and
+Thankfulneſs?</hi> To <hi>Good Will</hi> towards all men? To
+<hi>Charity,</hi> and <hi>Libera<g ref="char:EOLhyphen"/>lity?</hi> and the like: Otherwiſe, have an
+<hi>Hearty Deſire,</hi> and uſe your utmoſt endea<g ref="char:EOLhyphen"/>vour, which will be
+accepted, to bring it to ſuch a <hi>Diſpoſition.</hi>
+            </p>
+            <p>If after all this be done, you have any <hi>Spare-Minutes</hi>
+before <hi>Church,</hi> or <hi>Chappel-Time;</hi> you would do well to beſtow
+them in Reading over the <hi>Communion-Service;</hi> by which means you will be
+able with <hi>more Readineſs</hi> and <hi>De<g ref="char:EOLhyphen"/>votion,</hi> to go along with
+the <hi>Prieſt</hi> in the <hi>Pu<g ref="char:EOLhyphen"/>blique Miniſtration</hi> of it.</p>
+            <p>About <hi>an Hour</hi> before you go forth, Review
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Accompt</hi> of your
+ſins, noted in your <hi>Paper;</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your Heart go along with the
+<hi>Reading</hi> of them, <hi>Sorrowing</hi> for them, and <hi>Reſolving</hi>
+a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>After this, humbly <hi>Kneel,</hi> and Repeat the LI.
+<hi>Pſalm.</hi>
+            </p>
+            <q>
+               <pb n="59" facs="tcp:133820:32"/> 
+               <p>
+                  <hi>Have Mercy upon me,</hi> &amp;c.</p> 
+               <p>Glory be to the Father, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Then theſe</hi> following Collects; <hi>or as many of them,
+as you</hi> have Time <hi>for.</hi>
+            </p>
+            <q> 
+               <p n="1">1. O <hi>Bleſſed Jeſu,</hi> who didſt take upon Thee
+<hi>our Nature,</hi> and ſuffer Death upon the <hi>Croſs</hi> for our
+<hi>Redemption;</hi> and haſt command<g ref="char:EOLhyphen"/>ed us to <hi>continue the Memory</hi>
+of this thy preci<g ref="char:EOLhyphen"/>ous <hi>Death,</hi> till thy <hi>Coming again;</hi> Oh! Let
+not the ineſtimable Benefits of it be fruſtrated by my manifold and
+grievous ſins; But, inſpire my Soul with thoſe Graces which may qualifie
+me to Receive them tendered unto me in <hi>this Bleſſed Sacrament.</hi> O
+Lord, Thou ſeeſt that I have no power of my ſelf to help my ſelf! Oh!
+Let the pittifulneſs of thy great Mercy looſe me from the Chains of thoſe
+ſins where<g ref="char:EOLhyphen"/>with I am tied and bound; that being thus ſet at Liberty, I may
+here with Chearfulneſs run the ways of thy Commandments and here<g ref="char:EOLhyphen"/>after enter
+into thy Joy, O Bleſſed Saviour and Redeemer. <hi>Amen.</hi>
+               </p> 
+               <p n="2">2. Thou O God, and Saviour, knoweſt how vile I am, and
+with what Eagerneſs I have purſued the Paths that lead unto Everlaſting
+Death! How often hath <hi>this Feaſt</hi> been pre<g ref="char:EOLhyphen"/>pared, I lovingly
+<hi>Bidd,</hi> and called thereto;<pb n="66" facs="tcp:133820:33"/>but have with frivolous
+Excuſes abſented my ſelf? Or, if I have come; I have brought ſuch
+<hi>Troops</hi> of thy profeſſed Enemies, <hi>
+                     <g ref="char:V">Ʋ</g>n-repented Sins,</hi>
+along with me, as if, I came not to a<g ref="char:EOLhyphen"/>dore, but to defie Thee; not to
+Commemo<g ref="char:EOLhyphen"/>rate, but to Renew thy Paſſion! I am not worthy, O Lord! I am not
+worthy to come into thy preſence; much leſs, to <hi>eat the Fleſh</hi> of
+the Sacrificed Lamb: For, my ſins, <hi>O Bleſſed Jeſu,</hi> went along
+in Confederation with the <hi>High Prieſts,</hi> in Treachery with
+<hi>Judas,</hi> in In<g ref="char:EOLhyphen"/>juſtice with <hi>Pilate,</hi> in Malice and Cruelty
+with the <hi>People;</hi> Oh! what puniſhment then ſhall I be thought
+worthy of, who have thus trampl<g ref="char:EOLhyphen"/>ed under foot the <hi>Son of God,</hi> and
+counted the <hi>Bloud of the Covenant</hi> an Unholy Thing? Where ſhall I
+vile Wretch appear, who have put my LORD to Death! Who have cruci<g ref="char:EOLhyphen"/>fied to my
+ſelf the SON of GOD afreſh, and put <hi>thee</hi> to an open ſhame! Where
+ſhould I appear, but before my <hi>Saviour,</hi> who hath lo<g ref="char:EOLhyphen"/>ved, and dyed
+for me, though I have hated, and Murthered him? Thy Bloud, <hi>O Jeſu,</hi>
+is my only Refuge! Oh! Let the Cry of it ſpeak on my Behalf; and may it
+ſpeak better things than the Bloud of <hi>Abel!</hi> Be merciful unto me,
+<hi>O God,</hi> be merciful unto me, for my Soul truſteth in Thee; and in the
+<hi>clefts of thy Wounds</hi> ſhall be my Refuge until thy Fa<g ref="char:EOLhyphen"/>ther's 
+<pb n="61" facs="tcp:133820:33" rendition="simple:additions"/>Indignation be overpaſt! Oh Bleſſed
+<hi>Ad<g ref="char:EOLhyphen"/>vocate</hi> and <hi>Mediatour</hi> Intercede for me with <hi>thy
+Father</hi> and ours, thy God and ours; and grant, that by the Grace which thou
+haſt found, by the prerogative which thou haſt deſerved, by the mercy
+which thou haſt purchaſed for me, as thou haſt been partaker of my
+ſuffe<g ref="char:EOLhyphen"/>rings and Infirmities, ſo I by thy Death and Reſurrection and by
+thy infinite gracious Interceſſion may be made partaker of thy Ho<g ref="char:EOLhyphen"/>lyneſs,
+and thy glory, even for thy own Me<g ref="char:EOLhyphen"/>rits ſake. <hi>Amen.</hi>
+               </p> 
+               <p n="3">3. O Lord, who haſt promiſed, that if I open my mouth
+wide, Thou wilt fill it; I pray thee, <hi>to open it;</hi> and, not my mouth
+only, but my heart alſo: Oh! Create in thy ſervant a great hunger, and
+thirſt after the things of thy Kingdom and the righteouſneſs of it; after
+all thy holy graces and all the holy miniſterys of Grace; that I may long for
+the Bread of Heaven, thirſt after the fountain of Salvation, and as the Hart
+panteth after the wa<g ref="char:EOLhyphen"/>ter-Brooks, ſo my ſoul may deſire Thee, O Lord: Oh!
+Kindle ſuch an holy flame in my Soul, that it may conſume all my ſins and
+curſed affections, that I may never again deſile the place which thou
+haſt choſen for thy Temple. Thou diedſt, <hi>O Dear Jeſu,</hi> to
+redeem me from all iniquity; Oh! let me not again<pb n="62" facs="tcp:133820:34"/>ſell my
+ſelf, to work wickedneſs: I am a ſin<g ref="char:EOLhyphen"/>ner, a Greivous one, not worthy to
+look up to heaven; But be thou pleaſed to look down into the Duſt, and lift
+up a Sinner from the Dunghil; Let me not periſh in my folly, or be conſumed
+in thy heavy diſpleaſure; Give me time and Space to repent; and give me
+powers of Grace, that as by thy Holy Inſpi<g ref="char:EOLhyphen"/>ration I doe Sincerely &amp;
+fixedly reſolve on an intire Reformation, So by thy mercifull Gui<g ref="char:EOLhyphen"/>dance I may
+faithfully perform the ſame. <hi>Amen.</hi>
+               </p> 
+               <p n="4">4. O Thou Great <hi>Phyſitian</hi> of Souls; Heal me of
+thoſe many, and foul Diſeaſes which my Soul groans under; Grant that I
+may now ſo <hi>Touch</hi> thee that every one of thoſe loath-ſome
+<hi>iſſues</hi> may immediately ſtanch, that theſe ſickneſſes may
+not be unto Death; but to the Glory of thy mercy in pardoning, to the glory of
+thy Grace in purify<g ref="char:EOLhyphen"/>ing ſo polluted a wretch. <hi>Oh Chriſt hear me!</hi>
+Inſpire me with an holy <hi>Zeal</hi> to mortifie my ſins, ſupport me
+with an Holy <hi>Hope,</hi> confirm me with an excellent and unreproveable
+<hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aith,</hi> and inkindle in me
+a never failing <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>arity:</hi>
+Let me judg my ſelf, that I be not judged by thee; condemn my ſelf, that I
+be not condemned with the world: But, Receiv<g ref="char:EOLhyphen"/>ing this <hi>Holy Sacrament</hi>
+with a penitent heart,<pb n="63" facs="tcp:133820:34"/>and a lively Faith, I may partake the
+great benefits of it; I may dwell in Chriſt, and Chriſt in me; I may be one
+with Chriſt, and Chriſt with me: The Lord be mercifull unto me, and grant
+this for his own Bowells and Compaſſions ſake. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Then theſe Collects of <hi>Interceſſion.</hi>
+            </p>
+            <q> 
+               <p>MErcifull God, who haſt made all men, and wouldſt not the
+Death of a ſinner, but rather that he ſhould Turn from his wicked<g ref="char:EOLhyphen"/>neſs
+and live; to which purpoſe, Thou haſt ſent thy Son out of thy Boſome to
+ſuffer death upon the Croſs for our Redemption: look down in mercy and pity
+upon <hi>Poor Mankind</hi> whoſe portion is folly and miſery, ſhame, and
+Death: Bring all ſinners to Repentance: en<g ref="char:EOLhyphen"/>lighten all that ſit in
+darkneſs; all <hi>Jewes, Turks, Infidels, Hereticks</hi> and
+<hi>Schiſmaticks;</hi> Take from them all blindneſs, hardneſs of heart,
+and contempt of thy word and Com<g ref="char:EOLhyphen"/>mandment; ſo fetch them home, bleſſed
+Lord, unto thy fold, that they may be ſaved among the remnant of the true
+<hi>Iſraelites,</hi> and be made One Fold under one Shepherd, Jeſus
+Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+               <p>GRracious Lord, I doe more eſpecially hum<g ref="char:EOLhyphen"/>bly preſent to thy
+divine Majeſty this Glo<g ref="char:EOLhyphen"/>rious ſacrifice which thy bleſſed Son made upon
+the Croſs, in the behalf of all Chriſtans through<g ref="char:EOLhyphen"/>out<pb n="64" facs="tcp:133820:35"/>the World: give unto them all, O God, a por<g ref="char:EOLhyphen"/>tion of all the good
+Prayers which are made in heaven and earth, the <hi>Interceſſion</hi> of
+our Lord, and the ſupplications of all thy ſer<g ref="char:EOLhyphen"/>vants. Oh! Let us walk
+worthy of that Holy vocation wherewith we are called; let us who name the name
+of Chriſt depart from iniquity; and Unite us in the bonds of the <hi>Common
+Faith,</hi> and an holy Charity, that no intereſts or partialitys, no ſects
+or opinions may keep us any longer in darkneſs and di<g ref="char:EOLhyphen"/>viſion, But that we
+may with one mind, and one mouth Glorify thee, the Father of our Lord Jeſus
+Chriſt. <hi>Amen</hi>
+               </p> 
+               <p>O Father of Mercys, Be mercifull to this <hi>Miſerably Divided
+Church</hi> in which we live; according to all thy righteouſneſs, let thine
+anger be turned away from us; let Reli<g ref="char:EOLhyphen"/>gion and virtue ſeaſon all ſorts
+of men therein; Forgive us all our ſins; Turn thee unto us and bleſs us,
+that the world may ſay, Bleſſed is this, people whoſe God is the Lord
+<hi>Jehovah,</hi> and Bleſſed are the ſolk whom he hath choſen to him
+to be his Inheritance. Oh! Lord, Hear, and cauſe thy Face to ſhine upon
+this thy San<g ref="char:EOLhyphen"/>ctuary which is thus Sadly deſolate for the Lords ſake.
+<hi>Amen.</hi>
+               </p> 
+               <p>O King of Kings, and Lord of Lords, give I Pray thee the Spirit of
+Government and<pb n="65" facs="tcp:133820:35"/>Holineſs to all Chriſtian Kings, Princes
+and Governors; eſpecially to thy Servant <hi>CHAR<g ref="char:EOLhyphen"/>LES</hi> our King; Grant
+that his people may obey him, and he may obey thee, and live in honeſty and
+peace, juſtice and holy Religion, being a <hi>Nurſing Father</hi> to the
+Church, an Advocate for the oppreſſed, a Patron for the Widdows, and a
+Sanctuary for the miſerable and Father<g ref="char:EOLhyphen"/>leſs, that he may Raign with thee
+forever in the Kingdom of the Lord Jeſus Chriſt. <hi>Amen.</hi>
+               </p> 
+               <p>O Thou Fountain of all Goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neſs, be pleaſed to bleſs and protect our Gracious Queen
+<hi>CATHERINE; JAMES</hi> Duke of <hi>York,</hi> and all the <hi>Royal
+Family;</hi> endue them with all Heavenly Graces anſwerable to their
+<hi>Births;</hi> make them Inſtruments of thy Glory here, and partakers of
+thy Glory hereafter <hi>Amen.</hi>
+               </p> 
+               <p>O God, who alone doeſt great wonders; Be Gracious unto all
+thoſe, who wait at thine <hi>Altar;</hi> the <hi>Biſhops,</hi> and all the
+<hi>Clergy:</hi> Open thou their Lips, that their Mouths may ſhew forth thy
+praiſe; Inſpire them with holi<g ref="char:EOLhyphen"/>neſs, and diligence to preach and declare
+th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will by a Good Life, and wiſe
+Diſcourſes, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they may
+miniſter to the good of Souls, and fin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a glorious reward in the Day of the Lord Jeſus.
+<hi>Amen.</hi>
+               </p> 
+               <p>
+                  <pb n="66" facs="tcp:133820:36"/>O Mercifull God; Be mercifull in Suc<g ref="char:EOLhyphen"/>couring
+all that are in affliction; Deliver the out-caſt and poor; Help them to right
+that Suffer wrong; let the ſorrowful ſighing of the priſoners come before
+thee, and according to the Greatneſs of thy power, preſerve thou thoſe
+that are appointed to dye; Be mercifull unto all who are juſt now breathing
+out their laſt; Grant eaſe to thoſe that are in pain, Supply to thoſe
+that Suffer want: and, To all wicked perſons give thy Grace, that they may
+Speedi<g ref="char:EOLhyphen"/>ly repent, and Live well, and be ſaved through the merits of Jeſus
+Chriſt. <hi>Amen.</hi>
+               </p> 
+               <p>HAve mercy, and pour down thy Bleſſings, O God, upon my
+<hi>Father, Mother,</hi> and all other my <hi>Relations, Friends,</hi> &amp;
+<hi>Benefactors:</hi> Grant unto them whatſoever they want, or wiſely and
+holily deſire; Keep them forever in thy fear and favour; and let their
+portion be in the Bleſſing, and in the Service, in the love, and in the
+Kingdom of God, for ever and ever. <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, I beſeech thee, forgive my Enemies all their ſins
+againſt thee, and me: and, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive
+me that meaſure of thy Grace, that for their hatred, I may love them; for
+their Curſing, I may bleſs them; for their injurys I may do them good; and
+for their perſecution, <pb n="67" facs="tcp:133820:36"/>I may pray for them. Lord, I pray
+for them; Forgive them, for they know not what they do. <hi>Amen.</hi>
+               </p> 
+               <p>Finally, O Lord, I pray thee, for all thoſe who ſhall this day
+be <hi>my Companions</hi> at the <hi>Al<g ref="char:EOLhyphen"/>tar;</hi> and for all others who do now
+<hi>Communicate</hi> in any part of <hi>Chriſtendom;</hi> that through this
+blood of the Croſs, we may all be cleanſed from our ſins, and be
+preſented pure and unblamea<g ref="char:EOLhyphen"/>ble, &amp; unreproveable in thy ſight; for the
+ſake of Jeſus Chriſt, whom I adore, whom I love, and deſire I may
+ſtill more and more love, and love for ever. <hi>Amen. Amen.</hi>
+               </p> 
+               <p>
+                  <hi>Our Father which art in Heaven,</hi> &amp;c.</p> 
+               <p>
+                  <hi>But deliver us from Evil.</hi> Amen.</p> 
+               <p>The Lord bleſs and preſerve me in <hi>my going out,</hi> and
+<hi>my coming in;</hi> from this time forth, for evermore. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Having thus finiſhed your <hi>Cloſet-Devotions,</hi> you go
+forth to the <hi>Church</hi> or <hi>Chappel, Faſting,</hi> that ſo a
+Portion from Gods Table may be the <hi>firſt Morſel;</hi> and remember to
+take ſomething out of your <hi>Store</hi> to preſent at the
+<hi>Offertory.</hi>
+            </p>
+            <p>When you <hi>enter</hi> into the <hi>Church,</hi> kneel and
+pray.</p>
+            <q> 
+               <p>
+                  <hi>Our Father which art in Heaven,</hi> &amp;c.</p> 
+               <p>
+                  <hi>For thine is the Kingdom,</hi> &amp;c.</p> 
+               <p>Lord, I have loved the <hi>Habitation of thy Houſe,</hi> and the
+place where thine honour dwell<g ref="char:EOLhyphen"/>eth.<pb n="68" facs="tcp:133820:37"/>I will waſh my bands
+in Innocency, O Lord, and ſo will I go to thine <hi>Altar.</hi>
+               </p>
+            </q>
+            <p>Having ſeated your ſelf, turn to the <hi>Pſalms,</hi> and
+<hi>Leſſons, Epiſtle</hi> and <hi>Goſpel</hi> for the day, that you may
+more freely attend the <hi>Prieſt</hi> in read<g ref="char:EOLhyphen"/>ing them.</p>
+            <p>
+               <hi>Sermon</hi> ended, you go up to the <hi>Altar,</hi> and
+<hi>proſtrate</hi> before it, ſay,</p>
+            <q> 
+               <p>Thou art worthy. O Lord, to receive glory and honour, and power;
+for thou haſt created all things, and for thy wills ſake they are, and were
+created.</p> 
+               <p>Bleſſing, and glory, and wiſdom, and thanks, and honour, and
+power be unto our God, and unto the Lamb for evermore. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>Then whilſt <hi>Others</hi> are coming up, and the
+<hi>Prieſt</hi> preparing to read the <hi>Sentences,</hi> pray,</p>
+            <q> 
+               <p>ALmighty Lord, who haſt of thine infinite mercies vouchſaſ'd
+to ordain <hi>this Sacra<g ref="char:EOLhyphen"/>ment</hi> for a perpetual memory of that
+<hi>bleſſed Sa<g ref="char:EOLhyphen"/>crifice,</hi> which once thou madeſt for us upon the
+Croſs; grant me with ſuch diligent remem<g ref="char:EOLhyphen"/>brance, and ſuch due reverence,
+to participate of this ſo holy and wonderful a myſtery, that I
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y be made worthy by thy grace to
+obtain the <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>tue and fruits of the
+ſame, with all the bene<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s of
+thy precious death and paſſion, even the Remiſſion of all my ſins,
+and the fulneſs of all<pb n="69" facs="tcp:133820:37" rendition="simple:additions"/>thy graces, which I beg for
+thy only merits, who art my only Saviour, God from everlaſt<g ref="char:EOLhyphen"/>ing, and world
+without end, <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, our Heavenly Father, Almighty and everlaſting God,
+regard, we beſeech thee, the devotions of thy humble Servants, who do now
+celebrate the <hi>Memorial</hi> which thy Son our Saviour hath commanded to be
+made in <hi>remembrance of his moſt bleſſed Paſſion</hi> and
+<hi>Sacrifice;</hi> that by the merits and power there of, now repreſented
+before thy divine Majeſty, we, and all thy <hi>whole Church</hi> may be made
+par<g ref="char:EOLhyphen"/>takers of all other the benefits of his moſt pre<g ref="char:EOLhyphen"/>cious Death and
+Paſſion, together with his mighty Reſurrection from the earth, and
+glo<g ref="char:EOLhyphen"/>rious Aſcention into Heaven, who liveth and reigneth with thee, and the
+holy Spirit, ever one God, world without end. <hi>Amen.</hi>
+               </p> 
+               <p>BE pleaſed, O God, to accept this our bounden duty &amp;
+ſervice; and command that the prayers and ſupplications, together with the
+<hi>Remembrance</hi> of Chriſts Paſſion, which we do now offer up unto
+thee, may by the <hi>miniſtery of thy holy Angels</hi> be brought up into thy
+Hea<g ref="char:EOLhyphen"/>venly Tabernacle; and that thou not weighing our merits, but looking upon
+the bleſſed <hi>Sacrifice</hi> of our Saviour, which was once fully and
+perfectly made for us all, may'ſt pardon our offences, and repleniſh us
+with thy grace<pb n="70" facs="tcp:133820:38"/>and heavenly benediction, through Jeſus
+Chriſt our Lord. <hi>Amen.</hi>
+               </p> 
+            </q>
+            <p>Whilſt upon your <hi>Knees</hi> you caſt in your
+<hi>Offering;</hi> ſtop, and ſay,</p>
+            <q> 
+               <p>
+                  <hi>Bleſſed Jeſu,</hi> who did'ſt accept the poor Widdows
+<hi>two Mites;</hi> be pleaſed graci<g ref="char:EOLhyphen"/>ciouſly to accept this from thy
+unworthy Servant. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>The Prayers beginning again, you muſt joyn with the
+Congregation; and heeding every paſſage, let your heart goe along with it:
+keep your mind attentive, not only to the words and ſubſtance of the
+prayers and exhortations, but alſo to every paſſage, and particular
+<hi>Cere<g ref="char:EOLhyphen"/>mony</hi> in the <hi>Conſecration;</hi> for as much as <hi>all of
+them</hi> have their <hi>meaning</hi> and <hi>reaſon.</hi>
+            </p>
+            <p>Obſerve the <hi>Prieſt</hi> then <hi>breaking the Bread;</hi>
+and remember how Chriſts B. <hi>Body</hi> was <hi>tor'n with nails</hi> upon
+the Croſs: Obſerve him <hi>pouring out the Wine;</hi> and remember how his
+precious <hi>Blood</hi> was <hi>ſpilt</hi> likewiſe; and then, conſider
+they were your ſins which cauſed both; which ſhould work in you a great
+ſorrow for them, and then a great hatred, and a firm reſolution againſt
+them; and withal, ingage you to thank<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>lneſs and love, reſolving to expreſs it by an
+<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>niverſal obedience in your
+Converſation. A<g ref="char:EOLhyphen"/>gain,</p>
+            <p>
+               <pb n="71" facs="tcp:133820:38"/>Obſerve the <hi>People</hi> too,
+<hi>taking</hi> and <hi>eating the Bread; Taking</hi> and <hi>Drinking the
+Wine;</hi> for it ſignifies their particular <hi>laying hold on Chriſt by
+Truſt and Faith;</hi> their flying to, and apprehending him, as the means of
+their Salva<g ref="char:EOLhyphen"/>tion, and the pardon of their ſins tender'd to them in this B.
+Sacrament.</p>
+            <p>When you have <hi>thus meditated;</hi> If you have time, while the
+<hi>Prieſt,</hi> and <hi>others</hi> are <hi>Commu<g ref="char:EOLhyphen"/>nicating,</hi> uſe
+theſe or the like heavenly <hi>Aſpi<g ref="char:EOLhyphen"/>rations.</hi>
+            </p>
+            <q> 
+               <p>I am now <hi>before the Altar</hi> of God, even the God of my joy
+and gladneſs.</p> 
+               <p>I will offer <hi>Thanksgiving</hi> unto my God, and <hi>pay my
+Vows</hi> unto the moſt Higheſt.</p> 
+               <p>O lamb of God, that takeſt away the ſins of the World,
+<hi>Grant me thy Peace!</hi>
+               </p> 
+               <p>O Lamb of God, that takeſt away the ſins of the World, Have
+mercy upon me!</p> 
+               <p>Grant me, Gracious Lord, ſo to <hi>eat the Fleſh</hi> of thy
+Son, and to <hi>drink his Blood,</hi> that my ſin<g ref="char:EOLhyphen"/>ful <hi>Body</hi> may be
+made clean by <hi>his Body,</hi> and my <hi>Soul</hi> waſhed through his
+moſt <hi>precious Blood.</hi> Amen.</p> 
+               <p>O <hi>Lord,</hi> I am not worthy, not fit that <hi>thou</hi>
+ſhould'ſt come under the filthy <hi>Roofe</hi> of the houſe of my Soul,
+becauſe it is wholly deſolate and ruinous; neither haſt thou with me a
+fit place where to lay <hi>thy</hi> head: But, as <hi>thou</hi> 
+                  <pb n="72" facs="tcp:133820:39"/>did'ſt vouchſafe to be laid in a <hi>Stable</hi> and
+<hi>Man<g ref="char:EOLhyphen"/>ger</hi> of unreaſonable Beaſts; as <hi>thou</hi> did'ſt not
+diſdain to be entertain'd even in the houſe of <hi>SIMON</hi> the Leper; As
+<hi>thou</hi> did'ſt not re<g ref="char:EOLhyphen"/>ject the <hi>Harlot,</hi> a ſinner like unto
+me, coming unto <hi>thee,</hi> and touching <hi>thee;</hi> As <hi>thou</hi>
+did'ſt not abhor <hi>her</hi> foul and prophane mouth; Nor yet the
+<hi>Thief</hi> on the Croſs confeſſing <hi>thee:</hi> E<g ref="char:EOLhyphen"/>ven ſo
+vouchſafe to admit <hi>me alſo,</hi> an over<g ref="char:EOLhyphen"/>wor'n, miſerable, and out of
+meaſure <hi>ſinful Creature,</hi> to the <hi>Receiving</hi> and
+<hi>Communicating</hi> of the moſt pure, quick'ning, and ſaving
+<hi>myſte<g ref="char:EOLhyphen"/>ries</hi> of <hi>thy moſt holy Body,</hi> and <hi>precious
+Blood.</hi> Amen.</p> 
+               <p>O Lord God, how I received the <hi>Body</hi> and <hi>Blood</hi> of
+my moſt bleſſed Saviour <hi>Jeſus</hi> Chriſt, the price of my
+Redemption, is the very <hi>wonder of my Soul!</hi> yet, my moſt firm and
+<hi>conſtant belief</hi> upon the <hi>words of my Saviour.</hi> At this time
+they are graciouſly rend'red to me, and my <hi>Faith:</hi> Lord, make me a
+worthy Re<g ref="char:EOLhyphen"/>ceiver, and a Partaker of all the benefits of this B. Sacrament.
+<hi>Amen.</hi>
+               </p> 
+               <p>Thou haſt ſaid, that he that <hi>eateth thy Fleſh,</hi> and
+<hi>drinketh thy Blood,</hi> hath Eternal Life.</p> 
+               <p>Behold the Servant of the Lord, be it unto me according to thy
+Word!</p> 
+            </q>
+            <p>Whilſt you <hi>eat</hi> it, ſay,</p>
+            <q> 
+               <p>By thy <hi>Crucified Body</hi> deliver me from <hi>this Body of
+Death.</hi>
+               </p>
+            </q>
+            <p>
+               <pb n="73" facs="tcp:133820:39"/>After <hi>Receiving,</hi>
+            </p>
+            <q> 
+               <p>By thine <hi>Agony</hi> and <hi>Bloody ſweat,</hi> by thy
+<hi>Croſs</hi> and <hi>Paſſion,</hi> Good Lord deliver me!</p> 
+               <p>I have <hi>ſworn,</hi> and am <hi>ſtedfaſtly purpoſed</hi>
+to keep thy Righteous Judgments.</p> 
+               <p>O hold thou up my goings in thy Paths; that my footſteps ſlip
+not.</p>
+            </q>
+            <p>At the <hi>Receiving</hi> of the <hi>Cup, ſay,</hi>
+            </p>
+            <q> 
+               <p>What reward ſhall I give unto the Lord for all the benefits that
+he hath done unto me? I <hi>will take the Cup of Salvation,</hi> and call upon
+the name of the Lord.</p>
+            </q>
+            <p>After you have <hi>Received</hi> it, ſay,</p>
+            <q> 
+               <p>O my God, thou art true and holy! O my Soul, thou art bleſſed
+and happy!</p> 
+               <p>Oh the depth of the Wiſdom and Knowledg of God! how
+incomprehenſible are his judg<g ref="char:EOLhyphen"/>ments, and his ways paſt finding out!</p> 
+               <p>Praiſe the Lord, O my Soul, and all that is within me praiſe
+his Holy Name, who ſaveth thy Life from Deſtruction, and feedeth thee with
+the Bread of Heaven!</p> 
+               <p>Glory be to God on high, and on Earth Peace, good Will towards
+Men. I worſhi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thee, O Lord, and
+I magnifie thy Name <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ever, who
+haſt vouchſafed to fill my Soul wi<gap reason="illegible" resp="#PDCC" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> gladneſs, and to ſeed me with the <hi>Heavenly Myſteries of
+Chriſt's ſacred Body and Bloud;</hi> 
+                  <pb n="74" facs="tcp:133820:40" rendition="simple:additions"/>humbly
+beſeeching thee, that from henceforth I may walk in good Works, and ſerve
+thee in Holineſs and Pureneſs of Living, to the Honour of thy Name.
+<hi>Amen.</hi>
+               </p> 
+               <p>MOſt Bleſſed Redeemer, I do truly be<g ref="char:EOLhyphen"/>lieve, that thy
+<hi>Body</hi> was <hi>crucified,</hi> and thy <hi>Bloud</hi> was
+<hi>ſhed</hi> out of thy <hi>Body,</hi> as <hi>verily</hi> as I have received
+this <hi>Bread,</hi> and this <hi>Wine</hi> ſet <hi>apart</hi> from the
+<hi>Bread:</hi> and that for the <hi>Remiſſion of my ſins,</hi> as well
+as <hi>any others:</hi> And I do alſo believe, that with this <hi>Bread</hi>
+and <hi>Wine,</hi> I have <hi>really</hi> and <hi>ſpiritually</hi> received
+thy <hi>precious Body</hi> and <hi>Bloud,</hi> whereby my ſins are fully
+waſhed away, and my Soul purified, and refreſh'd: This, O Lord, I believe,
+<hi>help thou my <g ref="char:V">Ʋ</g>nbelief!</hi> Amen.</p>
+            </q>
+            <p>Whilſt <hi>others</hi> are <hi>Communicating;</hi> Medi<g ref="char:EOLhyphen"/>tate,
+and Say,</p>
+            <q> 
+               <p>HAppy are <hi>thoſe Servants,</hi> whom, when their Lord cometh,
+he ſhall find <hi>thus doing.</hi>
+               </p> 
+               <p>Know yee not, that ye are the <hi>Temple of God,</hi> and that the
+Spirit of God dwell<g ref="char:EOLhyphen"/>eth in you? If any one <hi>defile the Temple of God,</hi>
+him will God deſtroy.</p> 
+               <p>Behold, thou art <hi>made whole, ſin no more,</hi> leſt a
+<hi>worſe thing</hi> happen unto thee!</p> 
+               <p>
+                  <pb n="75" facs="tcp:133820:40" rendition="simple:additions"/>The hour cometh, and now it is that the
+true Worſhippers ſhall worſhip the Fa<g ref="char:EOLhyphen"/>ther in Spirit and in Truth.</p> 
+               <p>Be we followers of God, as dear Children, and walk in love as
+Chriſt loved us, and gave himſelf an <hi>Offering</hi> and a
+<hi>Sacrifice</hi> of a ſweet ſavour unto God for us.</p>
+            </q>
+            <p>
+               <hi>At</hi> the end of the <hi>Communion,</hi> ſay,</p>
+            <q> 
+               <p>To the King Eternal, the Immortal, Inviſi<g ref="char:EOLhyphen"/>ble and only Wife God,
+the <hi>ever bleſſed Tri<g ref="char:EOLhyphen"/>nity,</hi> be all honour, and glory, now and for
+e<g ref="char:EOLhyphen"/>vermore. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Ariſing</hi> and <hi>making your Reverence</hi> towards the
+<hi>Altar,</hi> you depart with a glad heart, and a cheerful countenance;
+preſerve <hi>good thoughts</hi> in your mind; yet be not <hi>ſullen</hi> or
+<hi>moroſe;</hi> but <hi>ſalute</hi> any of your Chriſtian Brethren, you
+meet with.</p>
+            <p>As ſoon as you come home, retire into your <hi>Cloſet,</hi>
+and bleſs God with <hi>theſe Collects</hi> of <hi>Thanksgiving.</hi>
+            </p>
+            <q> 
+               <p>ALmighty God, the Fountain of all good<g ref="char:EOLhyphen"/>neſs, from whom every
+good and perfect gift proceedeth; and to whom all glory and honour ſhould be
+returned: I do deſire moſt heartily to <hi>thank thee,</hi> for that thou
+haſt vouch<g ref="char:EOLhyphen"/>ſafed to feed me, who have <hi>received</hi> theſe <hi>holy
+myſteries</hi> with the <hi>ſpiritual food</hi> of the moſt pre<g ref="char:EOLhyphen"/>cious
+<hi>Body</hi> and <hi>Blood</hi> of thy Son our Saviour<pb n="76" facs="tcp:133820:41"/>Jeſus Chriſt; and do'ſt aſſure me thereby of thy favour and
+goodneſs towards me, and that I am a <hi>very member incorporate</hi> in the
+<hi>myſtical Body</hi> of thy Son, which is the <hi>bleſſed Company</hi>
+of <hi>all Faithful people;</hi> and am alſo an Heir through hope of thine
+everlaſting Kingdom, by the merits of the moſt precious Death and
+Paſſion of thy dear Son. Oh the height and depth of that unſpeakable
+mercy of thine, who art pleaſed to admit me a ſinful wretch to have any
+part in thoſe ineſtimable benefits, which I have ſo often deſpis'd and
+trampled under foot! I am not worthy, O Lord, of that <hi>daily Bread,</hi>
+whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ſuſtains the body; but
+thou haſt made me partaket of that <hi>living Bread which came down from
+Heaven;</hi> which nouriſheth the Soul, and, of which whoſoever eateth,
+ſhall live for ever. O grant that my Soul may relliſh this divine food with
+ſpiritual raviſhments, and love great as the flame of <hi>Cherubims;</hi>
+and grant, that what thou haſt given me for the <hi>Remiſſion of my
+ſins,</hi> may not by any fault become the increaſe of them; that this
+<hi>holy Communion</hi> prove not unto me, unto Judgment and Con<g ref="char:EOLhyphen"/>demnation, but
+may ſupport and preſerve me in every temptation, rejoyce and quiet me in
+every trouble, in lighten and ſtrengthen me in every good word and work;
+comfort and de<g ref="char:EOLhyphen"/>fend me in the hour of my death againſt all op<g ref="char:EOLhyphen"/>poſitions 
+<pb n="77" facs="tcp:133820:41"/>of the Spirits of darkneſs, and further me in the
+attainment of everlaſting Salvation, through Jeſus Chriſt.
+<hi>Amen.</hi>
+               </p> 
+               <p>MOſt holy God, who art of purer eyes then to behold iniquity;
+grant, I pray thee, that no unclean thing may be in me, who have now
+<hi>Received</hi> Thee into my heart and ſoul; but <hi>let this Blood</hi> of
+Chriſt, who through the <hi>Eternal Spirit, offered</hi> himſelf without
+ſpot to thee, purge my Conſcience from dead works to ſerve thee the
+living God; give me grace, that from henceforth I put off concerning my former
+Converſation <hi>the Old man;</hi> which is corrupt, according to the
+deceitful Luſts, and be renewed in the ſpirit of my mind: And that I put on
+the <hi>New Man,</hi> which after thee is created in Righteouſneſs and true
+Holineſs; to which purpoſe be pleaſed to watch over me for good, to keep
+me both outwardly in my Body, and inwardly in my Soul: O God, thou ſeeſt
+that I have no power of my ſelf to help my ſelf; thou knoweſt me alſo
+to be ſet in the mid'ſt of ſo many and great dangers, that by reaſon of
+the <hi>frailty of my Nature,</hi> I cannot always ſtand upright; grant to me
+ſuch ſtrength and protection, as may ſupport me in all dangers, and carry
+me through all tempta<g ref="char:EOLhyphen"/>tions, through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </p> 
+               <p>
+                  <pb n="78" facs="tcp:133820:42"/>O Thou, with whom is no variableneſs, nor
+ſhadow of turning, let thy holy Spirit di<g ref="char:EOLhyphen"/>rect me in all things, let thy
+grace always pre<g ref="char:EOLhyphen"/>vent and follow me, and preſerve me againſt all
+aſſaults of my ſpiritual enemys, eſpecially of <hi>my own treacherous
+heart,</hi> which is deceitful above all things, wicked, <hi>deſperately
+wicked,</hi> O Lord, thou knoweſt it: how often hath it betray'd me to the
+breach of thy holy Laws, to the violation of all theſe Vows and Promiſes
+which I have made to thee? How often have I turned my back in the day of
+battle? O let me no more thus ſtart aſide like a broken bow, but be
+ſtedfaſt, unmoveable, always a<g ref="char:EOLhyphen"/>bounding in the work of the Lord,
+reſiſting the Devill that he may flee from me, ſubduing my fleſh and
+bringing it into ſubjection, Cru<g ref="char:EOLhyphen"/>fying and overcoming the World. And
+there<g ref="char:EOLhyphen"/>fore let <hi>thoſe ſolemn Vows,</hi> which I have now made to
+forſake my ſins, never depart from my mind; but let the remembranee of them
+excite me to fight manfully under thy Banner, and continue thy faithful Servant
+and Souldier unto my Life's end. <hi>Amen.</hi>
+               </p> 
+               <p>O Lord, I do here humbly preſent unto thee my <hi>Soul</hi> and
+<hi>Body</hi> to be a living, ho<g ref="char:EOLhyphen"/>ly, and <hi>reaſonable Sacrifice</hi> unto
+thee; I be<g ref="char:EOLhyphen"/>ſeech thee, ſanctifie my <hi>Body,</hi> that from a pol<g ref="char:EOLhyphen"/>luted
+<hi>Dunghil,</hi> it may become the <hi>Temple of<pb n="79" facs="tcp:133820:42"/>God:</hi>
+Sanctify my <hi>Soul,</hi> and receive it for thy <hi>dwelling place,</hi> the
+ſeat of thy Spirit, and an houſe of Prayer and Holy Meditations: Sanctifie
+me <hi>throughout,</hi> that both my <hi>Body, Soul,</hi> and <hi>Spirit,</hi>
+may be preſerved <hi>blameleſs</hi> unto the <hi>coming of our Lord Jeſus
+Chriſt,</hi> to whom with thee, O Father, and the Holy Ghoſt, be all honour
+and glory, world with<g ref="char:EOLhyphen"/>out end. <hi>Amen.</hi>
+               </p> 
+            </q>
+            <p>THus have you <hi>cloſed</hi> your <hi>Communion-Devotions;</hi>
+It only remains, that you beſtow the <hi>greateſt part</hi> of the
+<hi>Afternoon</hi> in <hi>Reading, Praying, Meditating, good Conferen<g ref="char:EOLhyphen"/>ces,</hi>
+and the like: and when your Condition calls you to your <hi>uſual
+Converſes,</hi> you are ſtill to remember, you have a great buſineſs
+which lies upon your hands, which is the <hi>performance of thoſe
+promiſes</hi> you have now made to God; to which purpoſe frequently
+<hi>recollect</hi> them to mind, and let the <hi>remembrance</hi> of them be
+your <hi>refuge</hi> againſt all <hi>temptations</hi> to your <hi>old
+ſins,</hi> whenever they aſſault you; knowing, what a grievous thing it
+is to <hi>break that Vow</hi> which you have <hi>ſeal'd</hi> in your
+<hi>Saviours Blood,</hi> &amp; to have that <hi>Blood</hi> (through which only
+you can have pardon) to witneſs againſt you, <hi>which God forbid</hi>
+            </p>
+            <p>To your <hi>Evening Prayers,</hi> that <hi>Sunday</hi> night
+immediately before the <hi>Bleſſing,</hi> ſubjoyn this
+<hi>Collect.</hi>
+            </p>
+            <q>
+               <pb n="80" facs="tcp:133820:43"/> 
+               <p>O Bleſſed JESUS, who haſt this day made me a
+<hi>Partaker</hi> of thy <hi>bleſſed Body and Blood;</hi> thy
+<hi>Mercy</hi> hath given it, and my <hi>Faith</hi> hath <hi>received it</hi>
+into my Soul: O let me ever feel the happy virtue and effects of it: Put thy
+fear into my heart, to <hi>keep thoſe Vows</hi> and <hi>Pro<g ref="char:EOLhyphen"/>miſes</hi>
+which I have on this ſolemnity tendred unto thee in my mind, that I may not
+ſin a<g ref="char:EOLhyphen"/>gainſt thee; enrich me with all thoſe graces which come from this
+<hi>precious Body</hi> and <hi>Blood,</hi> and hereafter bring me to thy
+everlaſting glory, for thy merits and mercies ſake. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>THus not to detain you longer, I have re<g ref="char:EOLhyphen"/>commended to you the
+aforeſaid Devoti<g ref="char:EOLhyphen"/>ons to be us'd on the <hi>Friday</hi> in <hi>every
+moneth,</hi> which precedes a <hi>Communion,</hi> (eſpecially the
+<hi>Fridays</hi> before the three ſolemn times which our Church hath
+Conſecrated to this Bleſſed purpoſe, <hi>Chriſtmas, Eaſter,</hi>
+and <hi>Whit-Sunday,</hi>) ſuppoſing, that your <hi>health</hi> and
+<hi>important occa<g ref="char:EOLhyphen"/>ſions</hi> will permit it, otherwiſe you are not tyed to
+the <hi>ſtrictneſs</hi> of them, though you are ob<g ref="char:EOLhyphen"/>lig'd to
+<hi>receive</hi> this <hi>Sacrament,</hi> whenſoever an opportunity offers it
+ſelf.</p>
+            <p>To capacitate you for a <hi>worthy Communica<g ref="char:EOLhyphen"/>tion</hi> thereof at
+<hi>all times;</hi> I do laſtly, and hear<g ref="char:EOLhyphen"/>tily adviſe you to maintain a
+conſtant courſe of <hi>daily Prayers</hi> at <hi>Morning</hi> and
+<hi>Evening</hi> through<g ref="char:EOLhyphen"/>out the year; every <hi>Night recalling</hi> the
+<hi>Acti<g ref="char:EOLhyphen"/>ons<pb n="81" facs="tcp:133820:43" rendition="simple:additions"/>of the paſt-day,</hi> and repenting
+for the ſins of it; the practice whereof will fit you for the
+<hi>Communion</hi> at <hi>any time,</hi> when 'tis <hi>occaſionally</hi>
+tendered to you; I mean, when you are ſud<g ref="char:EOLhyphen"/>denly call'd to
+<hi>Communicate</hi> with a <hi>dying per<g ref="char:EOLhyphen"/>ſon:</hi> or come
+<hi>accidentally</hi> into a <hi>Congregation,</hi> where 'tis to be
+<hi>received,</hi> and all fit Gueſts are invited to it; in thoſe caſes,
+you are by no means to <hi>turn your back</hi> upon it; but, beſtow<g ref="char:EOLhyphen"/>ing that
+<hi>little time</hi> which is before you in <hi>Re<g ref="char:EOLhyphen"/>collecting, Repenting,
+Exerting</hi> your <hi>Faith, Love, Thankfulneſs,</hi> &amp;c. Omiting
+nothing of the <hi>ſtrictneſs</hi> which is required in the <hi>Act</hi> of
+<hi>Receiving,</hi> and <hi>performing afterwards</hi> to your power what you
+<hi>ſecretly promis'd;</hi> receive it with the reſt in the name of God,
+beginning with <hi>the Prayers</hi> afore mentioned, [<hi>page</hi> 68.] which
+are to be ſaid whil'ſt the <hi>Prieſt</hi> is prepa<g ref="char:EOLhyphen"/>ring to <hi>read the
+Sentences.</hi>
+            </p>
+            <q> 
+               <p>Almighty God, who haſt of thine infinite mercies vouchſaf'd,
+<hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>But this I adviſe, on ſuppoſal you carry a<g ref="char:EOLhyphen"/>bout with you
+ſuch an <hi>habitual preparation,</hi> which is acquired by keeping a
+<hi>ſtrict courſe</hi> of <hi>daily private Devotions,</hi> otherwiſe you
+ſin ſadly. However, be careful to <hi>Communicate,</hi> whenever you are
+<hi>ſolemnly invited</hi> to it, <hi>i. e. <pb n="82" facs="tcp:133820:44"/>every
+moneth,</hi> or oftner, and with due <hi>remem<g ref="char:EOLhyphen"/>brance</hi> of him, whoſe
+<hi>death</hi> you do hereby <hi>ſhew forth</hi> till he come.</p>
+            <q> 
+               <p>God Almighty make you a worthy <hi>parti<g ref="char:EOLhyphen"/>cipant</hi> of his
+<hi>Body</hi> and <hi>Blood</hi> here; that you may for ever enjoy Him
+hereafter. <hi>Amen.</hi>
+               </p>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_prayers">
+            <pb n="83" facs="tcp:133820:44"/>
+            <head>Collects for particular Graces.</head>
+            <div type="collect">
+               <head>For <hi>Faith.</hi>
+               </head>
+               <q>ALmighty God, whom without <hi>Faith,</hi> it is impoſſible
+to pleaſe; grant me, I beſeech thee, ſo perfectly to <hi>be<g ref="char:EOLhyphen"/>lieve</hi> in
+thy Son Jeſus Chriſt, that my <hi>Faith</hi> in thy ſight may never be
+reproved; and being called to the knowledg of thy Grace, and <hi>Faith</hi> in
+thee, and admitted into the <hi>fel<g ref="char:EOLhyphen"/>lowſhip of Chriſts Religion,</hi> I may
+eſchew thoſe things which are contrary to my Profeſſion, and follow all
+ſuch things as are agreeable to the ſame, through Jeſus Chriſt our
+Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Hope.</hi>
+               </head>
+               <q>BLeſſed Lord, who haſt cauſed all <hi>Holy
+Scriptures</hi> to be written for our learning; grant that I may in ſuch
+wiſe <hi>hear</hi> them, <hi>read, mark, learn,</hi> and inwardly
+<hi>digeſt</hi> them, that by <hi>Patience</hi> and <hi>Comfort</hi> of thy
+<hi>Holy Word,</hi> I may embrace, and ever hold faſt the <hi>bleſſed
+hope</hi> of everlaſting life, which thou haſt given<pb n="84" facs="tcp:133820:45"/>us
+in our Saviour Jeſus Chriſt; and that I may therefore purifie my ſelf,
+even as he is pure, that when he ſhall appear again with power and great
+glory, I may be made like him in his Eternal and glorious Kingdom where with
+thee, O Father, and thee, O Holy Ghoſt, he liveth and reigneth ever one God,
+World with<g ref="char:EOLhyphen"/>out end. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For the <hi>Love</hi> of God.</head>
+               <q>O God, who haſt prepared for them that <hi>Love thee</hi>
+ſuch good things as paſs mans underſtanding, pour into my heart ſuch
+<hi>Love towards thee,</hi> that I <hi>Loving thee</hi> above all things may
+obtain thy promiſes which exceed all that I can deſire, through Jeſus
+Chriſt our Lord, <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Charlty.</hi>
+               </head>
+               <q>O Lord, who haſt taught me that all our doings <hi>Without
+Charity</hi> are nothing worth; ſend thy <hi>Holy Ghoſt</hi> and pour into
+my heart that moſt excellent gift of <hi>Charity</hi> the very bond of peace
+and of all virtues, without which whoſoever liveth is counted dead before
+thee. Grant this for thine only Son Jeſus Chriſt's ſake.
+<hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <pb n="85" facs="tcp:133820:45"/>
+               <head>For <hi>Chaſtity.</hi>
+               </head>
+               <q>O Holy Jeſus who wert conceived in the womb of a
+<hi>Virgin,</hi> I beſeech thee, grant thy ſervant grace to withſtand all
+tempta<g ref="char:EOLhyphen"/>tions of the <hi>fleſh,</hi> and with a pure and clean heart to follow
+thee the only God, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Contrition.</hi>
+               </head>
+               <q>ALmighty and everlaſting God, who hateſt nothing that thou
+haſt made and do'ſt for<g ref="char:EOLhyphen"/>give the ſins of all them that are
+<hi>penitent:</hi> Create and make in me a <hi>new</hi> and <hi>Contrite
+Heart,</hi> that I worthily <hi>Lamenting my ſins</hi> and <hi>acknowledging
+my Wretchedneſs</hi> may obtain of thee the God of all mercy, perfect
+<hi>Remiſſion</hi> and <hi>Forgiveneſs,</hi> through Jeſus Chriſt our
+Lord. <hi>Anen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Devotion,</hi>
+               </head>
+               <q>MOſt great God. who haſt not only <hi>Per<g ref="char:EOLhyphen"/>mitted</hi> but
+<hi>invited</hi> us <hi>needy and miſe<g ref="char:EOLhyphen"/>rable Creatures</hi> to preſent our
+<hi>petitions</hi> to thee; O let me ſet a true <hi>value</hi> on this moſt
+<hi>invaluable Privilidge.</hi> I come unto thee, O Lord, as a 
+<pb n="86" facs="tcp:133820:46"/>
+                  <hi>Worm</hi> to my <hi>Soveraign Maker;</hi> I come as an
+<hi>Hanious Offender</hi> to a <hi>juſt</hi> and <hi>Severe Judg;</hi> let, I
+pray thee, mine addreſſes to thine houſe be with a Reverence ſome way
+anſwerable to thine <hi>Awfull Majeſty;</hi> give me an <hi>hearty
+deſire</hi> to pray, and ſuch a <hi>Pure Intention</hi> and <hi>Fixedneſs
+of Mind</hi> upon thee that I may no more incurre the guilt of drawing near to
+thee with my <hi>Lips</hi> when my <hi>Heart</hi> is far from thee, but may
+ſo aske that I may recieve, ſeek that I may find, knock that it may be
+opened unto me; that ſo from praying to thee here, I may be tranſla<g ref="char:EOLhyphen"/>ted to
+the praiſing thee eternally in thy glory, through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For the <hi>Fear of God.</hi>
+               </head>
+               <q>MOſt great God, who only art high and to be fear'd, O put thy
+<hi>fear</hi> into my heart, that I may not ſin againſt thee; let me never
+ſo miſplace my <hi>Fear</hi> as to be <hi>affraid</hi> of man whoſe
+breath is in his Noſthrills, but fill me, O Lord, with the Spirit of thy holy
+<hi>Fear,</hi> which is the beginning of Wiſdom, and let it preſerve me in
+a perpetuall conformity to thy will in all things, through Jeſus Chriſt our
+Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Contentedneſs.</hi>
+               </head>
+               <q>O God Heavenly Father, who by thy Son Jeſus Chriſt haſt
+promiſed to all them that ſeek thy Kingdom and the righteouſneſs 
+<pb n="87" facs="tcp:133820:46"/>theteof all things neceſſary to their bodily
+ſuſ<g ref="char:EOLhyphen"/>tenance; keep me, I beſeech thee, under the protection of thy good
+providence, and learn me, in whatſoever ſtate I am, therewith to be
+<hi>Content;</hi> grant me grace to forſake all <hi>Covetous deſires</hi>
+and <hi>Inordinate love of Riches,</hi> and ſo to paſs through things
+<hi>Temporal</hi> that I finally looſe not the things <hi>eternall,</hi> but
+that a<g ref="char:EOLhyphen"/>mong all the ſundry and manfold changes of the world, my heart may
+ſurely there be fixed, where true joys are to be ſound, through Jeſus
+Chriſt our Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For Diligence.</head>
+               <q>O Lord, who in thy holy Goſpel didſt ſentence the
+<hi>Slothfull</hi> and <hi>unprofitable Servant</hi> to be caſt into outer
+darkneſs; grant that I may not ſtand here <hi>all the day idle,</hi> but
+may give all <hi>Diligence</hi> to make my calling and <hi>Election</hi>
+ſure; make me in ſome meaſure <hi>uſe<g ref="char:EOLhyphen"/>full</hi> to my ſelf and others
+both as to <hi>This,</hi> and a <hi>better life.</hi> O let me never lay mine
+eyes to ſleep nor mine eye-lids to ſlumber, but learn and labour to get
+<hi>my own living,</hi> and to do my duty in that State of life, whereto it
+hath pleaſed thee to call me, through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <pb n="88" facs="tcp:133820:47"/>
+               <head>For <hi>Humility.</hi>
+               </head>
+               <q>ALmighty God, who reſiſteſt the <hi>Proud</hi> and
+giveſt grace to the <hi>Humble;</hi> mercifully grant, that I may follow the
+example of the great <hi>Humility</hi> of thy Bleſſed Son, who did
+<hi>humble</hi> himſelf to take upon him our fleſh and to Suffer death upon
+the Croſs; Convince me that I am leſs then the leaſt of all thy mercy's,
+that as I am vile in my ſelf, ſo let me be vile in mine own eyes, and may
+therefore eſteem e<g ref="char:EOLhyphen"/>very man better then my Self. Grant this, O Father, for
+thy Son Jeſus Chriſt's ſake. <hi>A-Amen-</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Juſtice.</hi>
+               </head>
+               <q>O Thou King of <hi>Righteouſneſs,</hi> who loveſt
+<hi>righteouſneſs</hi> and art mighty to ſave; give me grace to obtain
+this love of thine by cleanſing my heart &amp; hands from all <hi>fraud and
+injuſtice;</hi> O grant that I may moſt ſtrictly ob<g ref="char:EOLhyphen"/>ſerve that ſacred
+Rule of Doing unto all men as I would they ſhould doe unto me; that I hurt no
+body in word or deed, but be <hi>true and juſt</hi> in all my dealings, that
+ſo keeping <hi>inno<g ref="char:EOLhyphen"/>cency</hi> and taking heed unto the thing that is
+<hi>right,</hi> I may have peace at the laſt, even<pb n="89" facs="tcp:133820:47"/>peace
+with Thee, Through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Meekneſs.</hi>
+               </head>
+               <q>ALmighty God, who haſt given thine on<g ref="char:EOLhyphen"/>ly Son to be unto us
+both a <hi>Sacrifice</hi> for ſin, and alſo an enſample of Godly life;
+give me grace to learn of him who was <hi>meek and lowly</hi> of heart to put
+on bowels of <hi>mercy, meekneſs, and long-ſuffering;</hi> to be ſo far
+from offering the leaſt injury, that I may never <hi>re<g ref="char:EOLhyphen"/>turn the
+greateſt:</hi> And grant I beſeech thee, that the courſe of this World
+may be ſo peace<g ref="char:EOLhyphen"/>ably ordered by thy Governance, that I may joyfully ſerve
+thee in all <hi>Godly quietneſs,</hi> through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Sincerity.</hi>
+               </head>
+               <q>O Holy Lord, who ſearcheſt the heart, and tryeſt the
+reins, try me, I beſeech thee, and ſeek the ground of my heart; purge it
+from all <hi>hypocriſie,</hi> and ſuffer not any a curſed thing to lurk
+within me; give me <hi>truth</hi> in the inward part, to be <hi>pure in
+heart,</hi> that I may be qualified to ſee thee in thy Kingdom, through
+Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <pb n="90" facs="tcp:133820:48"/>
+               <head>For <hi>Temperance.</hi>
+               </head>
+               <q>GRacious Lord, who refreſheſt us with thy good Creatures,
+and art the Au<g ref="char:EOLhyphen"/>thour of all the good things which we do en<g ref="char:EOLhyphen"/>joy; give me grace I
+pray thee to uſe them with <hi>thankfulneſs and moderation;</hi> let me
+ne<g ref="char:EOLhyphen"/>ver be overcharged with <hi>Surfeiting and Drun<g ref="char:EOLhyphen"/>kenneſs,</hi> nor my
+<hi>Table</hi> be ever made a ſnare unto me; but may ſo <hi>eat</hi> and
+<hi>drink,</hi> that my fleſh may be ſubdued to the Spirit, and I may ever
+obey thy godly motions in Righteouſneſs and true Holineſs, to thy honour,
+and glory, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Thankfulneſs.</hi>
+               </head>
+               <q>GRacious God, who haſt taught me, that it is a joyful and
+pleaſant thing to be <hi>thankful;</hi> ſuffer me not I beſeech thee to
+looſe my part in that divine pleaſure, but make me truly and unfeignedly
+<hi>thankful</hi> unto thee for all thy mercies; let thy mercies lead me to
+Re<g ref="char:EOLhyphen"/>pentance, and give me grace to improve them all to the advancement of thy
+glory, and the furtherance of my Salvation, through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <pb n="91" facs="tcp:133820:48"/>
+               <head>For <hi>Truſt in</hi> God.</head>
+               <q>O God, who never faileſt to help and go<g ref="char:EOLhyphen"/>vern them, whom thou
+do'ſt bring up in thy ſtedfaſt fear and love; Grant I pray thee that I
+may <hi>lean</hi> only upon the <hi>Hope</hi> of thy Hea<g ref="char:EOLhyphen"/>venly grace, and in
+all my troubles put my <hi>whole truſt and confidence</hi> in thy mercy,
+caſting all my <hi>care</hi> upon thee, and being <hi>careful for
+nothing,</hi> but to keep thy teſtimony's, and think upon thy Commandments to
+do them. Grant this, O Father, for Jeſus Chriſt his ſake.
+<hi>Amen.</hi>
+               </q>
+            </div>
+            <div type="collect">
+               <head>For <hi>Perſeverance.</hi>
+               </head>
+               <q>O Lord, raiſe up I pray thee thy power, and come among us, and
+with great might ſuccour me; that whereas through my ſins and wickedneſs,
+I am ſore let and hindred in running the Race that is ſet before me; thy
+bountiful grace and mercy may help and ſtrengthen me to hold out unto the
+end, that ſo I may be ſaved; to be faithful unto death, that I may receive
+a Crown of life; nouriſh me, I pray thee, with all goodneſs, and of thy
+great mercy keep me in the ſame, through Jeſus Chriſt our Lord.
+<hi>Amen.</hi>
+               </q>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
